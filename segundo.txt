@@ -1,0 +1,635 @@
+12111 001 01 cabeza, dedo, pie, pierna, pulmon, corazon, hueso, uña, ojo, ombligo, garganta
+12111 001 02 caballo, perro, gato, iguana, tortuga, raton, hipopotamo, tigre, leon, puma, zorro, gaviota, cocodrilo, gacela, mono, lagartija, oveja, vaca, cerdo, dragon
+12111 001 03 combustion, fuego, metano, manganeso, magnesio, plata, oro, cobre
+12111 001 04 soluto, disolucion, disolvente, mezcla, solvente, agua-salada
+12111 001 05 fotosintesis
+22111 002 01 ojo, mano, dedo, organo-reproductor, cabeza, cerebro, cerebelo, celula, sistema-nervioso, sistema-digestivo, intestino-delgado, intestino-grueso, corazon, pulmon, costilla, higado, radio, cubito, medula-espinal, lobulo-occipital-pie
+22111 002 02 perro, gato, serpiente, cocodrilo, raton, iguana, aguila, cisne, lagarto, lagartija, caballo, burro, mula, vaca, ganso, hormiga, araña, pato, delfin, tiburon, pez, gusano, caracol, mariposa, lechuza
+22111 002 03 comnustion, fuego, cambio-de-color, luz, temperatura, olor, enfermedad, mezcla
+22111 002 04 soluto, solvente, disolucion, agua, sal, azucar, color, dispersa, homogenea, heterogenea, distinguir-elemento
+22111 002 05 fotosintesis, ciclo-del-carbono, ciclo-del-agua, dioxido-de-carbono, liberacion-de-oxigeno, respiracion, hidrocarburo, nitrogeno, oxigeno, arbol
+12111 003 01 corazon, dedo, cabeza, pulmon, estomago, arteria, cerebro, cerebelo, pierna, ojo, nariz, boca, oreja, higado, timpano, columna-vertebral, clavicula
+12111 003 02 iguana, tortuga, tigre, leon, lagartija, dragon-de-komodo, caiman, cocodrilo, gallina, pollo, perro, gato, tucan, elefante, hormiga, araña, gusano, puma, chita
+12111 003 03 combustion, elemento, compuesto, disolucion, cortar, quebrar, oxido, podrido, solido, liquido
+12111 003 04 mezcla, homogenea, heterogenea, soluto, disolvente, insaturado, saturado, sobresaturado, concentrado, diluido, elemento, compuesto, sustancia-pura
+12111 003 05 oxidacion, fotosintesis, hidrocarburo, agua, podrido, erosion, fosiles
+12111 004 01 brazo, pierna, lengua, muslo, hombro, cuello, oreja, nariz, boca, ojo, cabeza, aparato-reproductor, pie, mano, rodilla, dedo, menton, cadera, espalda, columna
+12111 004 02 perro, gato, dinosaurio, cocodrilo, caballo, oveja, vaca, ternero, delfin, tiburon, pajaro-carpintero, buey, alce, oso, lobo, lobo-marino, foca , puerco, mantarraya, pez-espada, pescado, hormiga, mosca, zancudo, sapo, rana
+12111 004 03 cloruro, sulfato-de-sodio, disolucion, solubilidad, soluto, disolvente, litio, liquido, gaseoso, solido
+12111 004 04 agua, soluto, disolvente, mezcla
+12111 004 05 
+12111 005 01 cabeza, mano, dedo, brazo, hombro, ojo, nariz, boca, pierna, pie, pene, testiculo, ano, estomago, oreja, cuello, nudillo
+12111 005 02 perro, gato, raton, elefante, leon, rinoceronte, calamar, tiburon, pulpo, cerdo, jabali, tigre, hiena, leopardo, puma, iguana, pez, pantera, ardilla, tortuga, gallina
+12111 005 03 fuego, luz, agua, combustion, gas, hielo, pudricion, estado-gaseoso, estado-liquido
+12111 005 04 soluto, disolvente, disolucion
+12111 005 05 fotosintesis, hidrocarburo, nitrogeno, marihuana, extasis, cocaina 
+12111 006 01 ojo, oido, dedo, pelo, lengua, pierna, uña, cuello, pestaña, musculo, vena, ceja, grano, espinilla, trasero, espalda, tobillo, muslo
+12111 006 02 gato, perro, tortuga, gallina, iguana, raton, coipo, guaren, serpiente, chancho, aguila, halcon, huemul, condor, pajaro, leon, guepardo, leopardo, mono, gorila, chimpance, rinoceronte, hipopotamo, chinchilla, hamster, cuy,loro, perezoso, tigre, tigre-dientes-de-sable
+12111 006 03 fuego, combustion, agua, oxigeno, soluto, disolvente, disolucion, temperatura, agitacion, fase-dispersa, fluoruro potasio, fosforo, fase-dispersante, union, 
+12111 006 04 soluto, disolvente, fase-dispersa, fase-dispersante, factores, temperatura, agitacion, concentracion, solubilidad, saturado, insaturado, sobresaturado
+12111 006 05 potasio, calcio, fosforo, oxidacion, hidrocarburo
+12111 007 01 ojo, oreja, cabeza, pie, mano, dedo, pena, pierna, nariz, craneo, columna-vertebral
+12111 007 02 leon, jirafa, iguana, cocodrilo, mono, cebra, avestruz, serpiente, tiburon, ballena, estrella-de-mar, foca, delfin, condor, huemul, gallina, gallo, perro, gato, dragon-de-komodo, lombriz, tigre
+12111 007 03 fuego, gas, combustion
+12111 007 04 agua, soluto
+12111 007 05
+12111 008 01 corazon, pulmon, brazo, pierna, cabeza, cerebro, pie, dedo, mano, ojo, nariz, oreja, aparato-reproductor, pecho, cuello, garganta, diente, uña, pelo, gluteo, espalda
+12111 008 02 perro, gato, pato, flamenco, ornitorrinco, iguana, lagartija, lobo, vaca, caballo, jirafa, cebra, ballena, pez, serpiente, araña, bicho, leon, raton, camello, jabali, tucan, paloma, cocodrilo
+12111 008 03 soluto, concentracion, combustion, fuego, aire, gas, nitrogeno, sodio, potasio, fosforo, agitacion, disolvente, cobre, temperatura, presion, mezcla-homogenea, mezcla-heterogenea, hidrogeno, niquel, hierro
+12111 008 04 soluto, disolvente, concentracion, presion, mezcla-homogenea, mezcla-heterogenea, temperatura, agitacion, cafe-con-leche, mayonesa, jugo, azucar-en-agua, vino
+12111 008 05 hidrocarburo, oxidacion, planta, fotosintesis
+12111 009 01 cabeza, pie, ojo, oreja, labio, pelo, diente, radio, pierna, pene, dedo, mano, lengua, espalda, rodilla, antebrazo, hombro, codo
+12111 009 02 perro, gato, raton, dinosaurio, dragon-de-komodo, iguana, vaca, caballo, chancho, pinguino, rinoceronte, leon, leopardo, chita, tigre, tigre-diente-de-sable, puma, gato-colocolo, reno
+12211 009 03 fuego, combustion, gas, luz, reaccion, agua, hielo
+12111 009 04 soluto, disolvente, disolucion
+12111 009 05 hidrocarburo
+22111 010 01 mano, cerebro, cabeza, hueso, pie, pierna, musculo, vena, sangre, corazon, arteria, pulmon, higado, pancreas, ojo, boca, oido, nariz
+22111 010 02 perro, gato, vaca, cebra, caballo, lagartija, iguana, elefante, mariposa, leon, zariguella, cerdo, gallina, oveja, conejo, huron, toro, jirafa, rinoceronte, pescado, delfin, tiburon, hamster, mosca, simio
+22111 010 03 agua, cloruro, aire, materia, potasio, manganeso, boro, fierro, cloro, sal, alcohol, etanol, tierra, elementos, cobre, oro, plata
+22111 010 04 soluto, disolvente, agua, sal, acuosa, homogenea, heterogenea, temperatura, metal-mas-no-metal, no-metal-mas-metal, no-metal-mas-no-metal, metal-mas-metal, oxigeno
+22111 010 05 fotosintesis, oxidacion, luz-solar, agua, aire, mineral, hidrogeno, dioxido-de-carbono, hidruro, hidrocarburo, nitrogeno, organico
+12111 011 01 cabeza, ojo, oreja, nariz, dedo, mano, pie, pierna, axila, espalda, estomago, columna, pelo, trasero, aparato-reproductor-masculino, axon, craneo, perone, costilla, corazon, pulmon, cadera, higado, riñon, neurona
+12111 011 02 gato, hamster, perro, jirafa, elefante, mosca, iguana, camaleon, aguila, zancudo, rinoceronte, leopardo, leon, tigre, mono, chimpance, tortuga, oso, vaca, serpiente, conejo, suricato, bufalo, caballo, lagartija, cocodrilo, tiburon, pez-globo, pez-payaso, zorro
+12111 011 03 fuego, agua, aire, tierra, gas, azucar, materia, hidrogeno, metano, cloruro, potasio, hierro, vaso-precipitado, sucralosa, agua-oxigenada, plomo, plata, oro, carbon, cobre
+12111 011 04 soluto, disolvente, agua, homogenea, heterogenea, disolucion-acuosa, temperatura, presion, aire, cloruro, elemento, compuesto, metales, metal-mas-no-metal, liquido-mas-no-metal, liquido, gaseoso, sal, oxigeno
+12111 011 05 fotosintesis, luz-solar, agua, aire, mineral, hidrogeno, dioxido-de-carbono, respiracion-celular, hidruro, nitroglicerina, aceite
+22111 012 01 ojo, boca, diente, rodilla, pierna, brazo, axila, dedo, uña, codo, corazon, hueso, genital, oreja, cabello
+22111 012 02 perro, gato, avestruz, pato, foca, gorila, ñandu, pinguino, leon, gallina, pollo, ternero, vaca, toro, buey, ballena, estrella-de-mar, delfin, cocodrilo, guepardo, conejo, liebre, mono, zorro
+22111 012 03 agua, oxigeno, fuego, combustion, sodio, cloruro, materia, gas, solido, liquido, gaseoso, carbono, sulfato, disolvente, solvente, neutron, proton
+22111 012 04 solvente, soluto, disolvente, agua, gas, solido, aceite, soluble, homogeneo, heterogeneo
+22111 012 05 manzana-podrida, fotosintesis, carbono, dioxido-de-carbono, luz, agua, aire, oxigeno, sol, lluvia
+22111 013 01 ojo, mano-derecha, mano-izquierda, brazo-derecho, brazo-izquierdo, codo, muñeca, uña, hombro, clavicula, oreja, pomulo, menton, nariz, labio, parpado, espalda, dedo, pierna-derecha, pierna-izquierda
+22111 013 02 ballena, perro, gato, conejo, vaca, elefante, jirafa, liebre, leon, leopardo, hiena, avestruz, hipopotamo, caballo, huemul, condor, reineta, pulpo, cuervo, pelicano, rana, toro, mono, simio, pez-espada
+22111 013 03 fuego, combustion, oxigeno, materia, atomo, proton, neutron
+22111 013 04 soluto, disolvente, agua, aceite, leche
+22111 013 05 planta, fotosintesis, sol, papa, pasto
+12111 014 01 dedo, nariz, ojo, oreja, oido, boca, diente, lengua, pie, pierna, rodilla, femur, mandibula, craneo, tobillo, codo, muñeca, mano, cabeza, meninge, medula-espinal, cerebelo, cerebro, labio, esofago, estomago, intestino, higado
+12111 014 02 perro, oso, pajaro, iguana, lagartija, serpiente, gusano, zorro, pato, puma, leon, murcielago, caballo, vaca, burro, asno, potrillo, mosca, araña, escorpion, alacran, tigre, pantera, hiena
+12111 014 03 fuego, combustion, elemento, compuesto, tabla-periodica, luz, calor, sustancia, cambio, ecuacion-quimica, reaccion
+12111 014 04 soluto, disolvente, mezcla, homogeneo, diluido, concentrado, presion, interaccion-soluto-disolvente, temperatura, agitacion, solubilidad, agua-con-azucar, saturacion
+12111 014 05 fotosintesis, organismo, lipido, carburo, hidrocarburo, proteina
+22111 015 01 cabeza, brazo, tronco, pierna, mano, pie, dedo, oreja, nariz, boca, ojo, diente, lengua, pelo, uña
+22111 015 02 caballo, elefante, jirafa, mariposa, vaca, iguana, leon, jaguar, tigre, abeja, oveja, perro, gato, pato, gallina, paloma, canario, burro, toro, cebra, huron, erizo, gato-montes, cocodrilo, tiburon, ballena, delfin, foca
+22111 015 03 fuego
+22111 015 04 cafe, piscola
+22111 015 05
+12111 016 01 cabeza, ojo, boca, estomago, abdomen, pierna, brazo, mano, labio, cuello, oreja, trasero, muslo, pie, dedo, hombro, pene, testiculo, codo, nariz, vagina
+12111 016 02 perro, gato, leon, raton, pez, iguana, vaca, cerdo, conejo, leopardo, tigre, pollo, jirafa, mantaraya, lombriz, ocelote, lobo, zariguella, lagarto, cocodrilo, serpiente
+12111 016 03 agua, fuego, manzana-en-descomposicion, hielo, piscola, cloruro de sodio, cobalto, potasio, calcio
+12111 016 04 cafe-con-leche, bebida, cafe, te, torta, cazuela, galleta, leche, masa, crema, merengue, queso, chocolate, agua-de-mar, agua-con-azucar, piscola
+12111 016 05 organo, oxidacion, quimica, organismo-celular, planta, huerta
+22111 017 01 cara, oreja, nariz, boca, musculo, corazon, craneo, pierna, mesencefalo, cerebelo, cadera, mano, timpano, higado, pulmon, vagina, pene
+22111 017 02 perro, gato, pato, oveja, chivo, llama, leon, leopardo, jaguar, condor, pudu, hipopotamo, elefante, morsa, jirafa, leon-marino, cangrejo, pez-payaso, avestruz, dinosaurio, vaca, ciervo, huemul
+22111 017 03 fuego, oxigeno, convulsion, luz, dioxido-de-carbono, manzana-en-descomposicion, vidrio
+22111 017 04 arroz-con-leche, cafe-con-leche, bebida, cafe, te, capuccino-moka, cazuela, galleta, masa, queso, chocolate, chocolate-caliente, agua-de-mar, agua-con-azucar
+22111 017 05 oxidacion, quimica, organismo, planta, luz-solar
+12111 018 01 dedo, ojo, pelo, pupila, pestaña, mano, uña, huella-digital, pie, pierna, rodilla, tobillo, muslo, cadera, tronco-encefalico, nariz, boca, diente, hueso, oreja, brazo, codo, nervio, intestino-delgado, intestino-grueso
+12111 018 02 oso, cocodrilo, serpiente, huron, iguana, rana, huemul, aguila, condor, zorro, lobo, perro, leon, tigre, leopardo, toro, ciervo, oso-polar, oso-perezoso, koala, hormiga, gato, buho, hipopotamo
+12111 018 03 cloruro-de-potasio, fuego, tabla-periodica, sustancia, compuesto, solubilidad, solvente, disolvente, oro, metal, metalurgia, cobre, oxigeno, hidrogeno, cloro, elemento, sustancia-pura, soluto
+12111 018 04 soluto, disolucion, solvente, disolvente, fase-dispersa, fase-dispersante, sobresatura, insaturada, saturada, acuosa
+12111 018 05 quimica-organica, quimica, organica, hidruro, sustancia-pura, hidrogeno, calcio, zinc, proteina
+22111 019 01 mano, brazo, espalda, musculo, cabeza, hombro, estomago, corazon, pulmon, nariz, pie, pierna, cadera, cerebro, tronco, abdomen, ojo, oreja, vena, arteria, diafragma, uña, dedo
+22111 019 02 gato, perro, caballo, leopardo, tigre, camello, iguana, cocodrilo, elefante, jirafa, pez-payaso, paloma, pato, vaca, puma, mono, chimpance, condor, avestruz, oso, conejo, mariposa, hormiga, abeja
+22111 019 03 sutancia, elemento, compuesto, combustion, ebullicion, solidificacion, mezcla, quimico, fuego, quemar, temperatura, composicion, estado-de-la-materia, materia, vapor
+22111 019 04 mezcla, homogenea, heterogenea, sustancia, temperatura, presion, soluto, solvente, concentrada, diluida, interaccion-soluto-disolvente, saturada, sobresaturada, insaturada, compuesto
+22111 019 05 tierra, ambiente, sustancia, reaccion, proceso, exterior, compuesto, elemento, mezcla, fotosintesis, planta, arbol, animal, descompuesto, materia
+12111 020 01 muslo, corazon, vena-cava, pulmon, riñon, pancreas, higado, intestino-grueso, intestino-delgado, trasero, pie, dedo, tronco, pectoral, brazo, cerebro, encefalo, columna, medula-espinal, costilla, uña, piel, boca, ojo, nariz, cabeza, pene, lengua, diente, garganta
+12111 020 02 gaviota, leon, camaleon, iguana, pulpo, pez-payaso, tiburon, hipopotamo, rinoceronte, flamenco, perro, gato, hamster, tortuga, conejo, gallina, cerdo, vaca, caballo, toro, mono, raya, rana, piraña, cocodrilo, chimpance, koala, paloma, pepino-de-mar
+12111 020 03 fuego, agua-oxigenada, agua, dioxido-de-carbono, cloruro-de-sodio, agua-de-mar, bebida, explosion-de-bengala, acido-sulfurico, ion, sal, azucar, solido
+12111 020 04 soluto, mezcla, homogenea, heterogenea, disolvente, disolucion, solido, disolucion-acuosa, gas-en-liquido
+12111 020 05 fotosintesis, ebullicion, solidificacion, condensacion, crecimiento-de-planta, intercambio-de-gas, atmosfera, cadena-fotosintetica, carbono, dioxido-de-carbono, agua, hidrogeno, ciclo-del-agua, agua-subterranea, fluor
+12111 021 01 musculo, hueso, organo, craneo, lobulo, nervio, corazon, sistema-nervioso, glandula, receptor, mesencefalo, columna, rodilla, oido, boca, tejido, celula, carne, piel
+12111 021 02 gato, perro, buitre, caballo, delfin, iguana, tiburon, pez, ballena, cerdo, mosca, abeja, serpiente, conejo, araña, escarabajo, mosquito, pez-espada, tigre, leon, rinoceronte, pantera, avispa, aguila, paloma, raton, lagarto, cocodrilo, mono, orangutan
+12111 021 03 elemento, compuesto, ion, fuego, agua, gas, anion, cation, dioxido-de-carbono, cobre, zinc, cloro, hidrogeno, mezcla, aire, hidroxido, hidruro, metal, no-metal, acuosa, solido
+12111 021 04 homogenea, heterogenea, acuosa, solida, liquida, soluto, disolvente, disolucion, saturada, insaturada, sobresaturada, mezcla, solubilidad, factor, componente, suspesion, alcohol, coloide, concentrada, diluida
+12111 021 05 tierra, carbono, aire, gas, carbohidrato, proteina, planta, arbol, estiercol, fotosintesis, vertebrado, invertebrado, insecto, animal, lagarto, pez, hidrocarbono, nitro, raiz, semilla, carnivoro, vegetariano, fauna, flora
+12111 022 01 ojo, mano, boca, diente, piel, pie, pierna, dedo, lengua, cabeza, estomago, higado, laringe, nariz, cerebro, cuello
+12111 022 02 perro, gato, serpiente, iguana, condor, huemul, tiburon, paloma, buitre, conejo, ballena, hamster, aguila, araña, murcielago, lobo, leon, puma, jirafa
+12111 022 03 combustion, fuego, temperatura, compuesto, elemento, enlace, aire, carbono, agua, solido, liquido, gaseoso
+12111 022 04 soluto, solvente, saturacion, sobresaturado, insaturado, mezcla-homogenea, agua
+12111 022 05 proteina, celula, pared-celular, fotosintesis, energia, lipido
+22111 023 01 dedo, torax, cabeza, nariz, boca, pie, oreja, cerebro, bulbo-raquideo, mesencefalo, cuerda-vocal, pulmon, estomago, pelvis, garganta, amigdala, laringe, faringe, ojo, medula-espinal, cerebelo, sistema-nervioso, celula
+22111 023 02 perro, gato, serpiente, condor, foca, iguana, rata, hamster, pajaro, vaca, salmon, gallina, pollo, gallo, leon, tigre, jaguar, leopardo, lince, oso-panda, oso-pardo, oso.-polar, pinguino, koala, perezoso, piton, hiena, lobo
+22111 023 03 combustion, fuego, agua, obejeto-quemarse, elemento-quimico, cambio-de-estado, gas, aire, agua-mas-fuego
+22111 023 04 agua-y-azucar, harina-y-agua, soluto, disolvente, acuosa, agitar, temperatura, solubilidad, densidad, presion
+22111 023 05 organico, luz-solar, mineral, hidrogeno, fotosintesis, respiracion-celular, carburo
+12111 024 01 cerebro, corazon, pie, mano, hombro, ojo, nariz, boca, oreja, cintura, codo
+12111 024 02 perro, dinosaurio, gato, iguana, caballo, hamster, cuy, serpiente, sapo, renacuajo, delfin, leon, tigre, flamenco, halcon, gusano, pollo
+12111 024 03 fuego, el-jugo-con-el-agua, nieve
+12111 024 04 disolvente, soluto
+12111 024 05 marihuana
+22111 025 01 brazo, cuello, pierna, cabeza, mano, pie, corazon, cerebro, rodilla, codo, dedo, ojo, oreja, lengua, musculo
+22111 025 02 caballo, perro, gato, delfin, abeja, araña, vaca, loro, ballena, huemul, condor, hormiga, conejo, liebre, pez, jirafa, hipopotamo, leon, puma, leopardo
+22111 025 03 combustion, fuego, oxigeno, agua, temperatura, solubilidad, presion, soluto, solvente, agitacion
+22111 025 04 homogenea, soluto, disolvente, acuosa, saturada, insaturada, sobresaturada, heterogenea, gaseosa, solido, liquido, solvente
+22111 025 05 fotosintesis, hidrocarburo, oxigeno
+22111 026 01 cabeza, brazo, pierna, pie, mano, dedo, rodilla, codo, hombro, oreja, nariz, diente, intestino, cadera, cuello, abdomen, higado, corazon
+22111 026 02 perro, gato, vaca, caballo, cebra, iguana, hipopotamo, elefante, jirafa, cocodrilo, conejo, pajaro, mariposa, mosca, pez, araña, leon, tigre, erizo, ballena, estrella-de-mar, tiburon, lagarto
+22111 026 03 fuego, combustion, solubilidad, temperatura, presion, soluto, solvente, agitacion, compuesto
+22111 026 04 homogenea, heterogenea, soluto, solvente, acuosa, gaseosa, solida, saturada, insaturada, sobresaturada
+22111 026 05 fotosintesis, planta, hidrocarburo
+22111 027 01 pierna, brazo, cabeza, ojo, dedo, lengua, uña, cabello, rodilla, codo, tobillo, oreja, nariz, labio, diente, mejilla
+22111 027 02 perro, gato, caballo, gallina, iguana, caiman, vaca, pato, ganso, pavo, cerdo, leon, tortuga, serpiente, aguila, paloma,hamster, huron, erizo, ballena, orca, loro
+22111 027 03 fuego, combustion, disolucion, elemento, temperatura, presion, soluto, agitacion, compuesto, descomposicion
+22111 027 04 soluto, homogenea, heterogenea, solvente, gaseosa, liquida, solida, saturada, insaturada, sobresaturada
+22111 027 05 fotosintesis, hidrocarburo
+22111 028 01 cerebro, brazo, mano, pie, cerebelo, nariz, ojo, oido, rodilla, dedo, tobillo, boca, codo
+22111 028 02 perro, caballo, cebra, conejo, gato, jirafa, hipopotamo, cocodrilo, leon, puma, aguila, condor, huemul, serpiente, rinoceronte, caiman, pez-payaso
+22111 028 03 fuego, combustion, enlace-quimico, gas, liquido, acuoso, agua, elemento, compuesto, mezcla
+22111 028 04 homogenea, heterogenea, coloide, soluto, disolvente, disolucion-saturada, disolucion-insaturada, disolucion-sobresaturada, mezcla, suspension
+22111 028 05 carbono, fotosintesis, aire, gas, hidruro, oxigeno
+22111 029 01 craneo, pie, ojo, nariz, pierna, oreja, dedo, boca
+22111 029 02 jirafa, elefante, serpiente, perro, gato, cocodrilo, araña, leon, tortuga, pez, hormiga, cebra, hipopotamo, orangutan, buho, aguila, cangrejo, conejo, gallo, pato, puercoespin
+22111 029 03 fuego, frio
+22111 029 04 homogenea, heterogenea, coloide
+22111 029 05 hidruro, hidracido, dioxido-de-carbono, hidrocarburo, nitro, paracetamol
+12111 030 01 organo, musculo, corazon, tripa, cerebro, cabeza, nariz, ojo, pierna, pie, estomago, cerebelo, columna-vertebral, mano, dendrita, ceja, boca, lengua, diente
+12111 030 02 gato, perro, caballo, cerdo, vaca, iguana, cabra, gallina, pollo, leon, tigre, puma, pato, coipo, araña, jirafa, mono, venado, sapo, rana, cigueña
+12111 030 03 fuego, agua, bebida, aire, agua-de-mar, oro, plata, cobre
+12111 030 04 soluto, homogenea, heterogenea, coloide, solubilidad, saturada, insaturada, sobresaturada, disolvente, solvente
+12111 030 05 fotosintesis, oxidacion, hidruros, carburos, carbohidratos, hidrogeno, dioxido-de-carbono, vitamina, agua, aire, hidrocarburo, nitro, paracetamol, nitrogeno
+22111 031 01 organo, musculo, hueso, nervio, cabeza, nariz, ojo, olfato, oido, mano, pie, columna-vertebral
+22111 031 02 mono, jirafa, perro, gato, leon, pez, cigueña, suricata, raton, sapo, vaca, chancho, koala, oso, oso-polar, pinguino, aguila, hamster, erizo
+22111 031 03 fuego, agua, bebida, aire
+22111 031 04 homogenea, heterogenea, coloide, soluto, solubilidad, saturado, insaturado, sobresaturado
+22111 031 05 hidruro, hidracido, agua, aire, hidrocarburo, nitro, paracetamol
+22111 032 01 cerebro, cerebelo, organo, hueso, tejido, pie, musculo, pantorrilla, intestino-grueso, intestino-delgado, vena, piel, ojo, mano, codo, muslo, oreja, dedo
+22111 032 02 elefante, gusano, vaca, perro, gato, cocodrilo, tucan, loro, leon, puma, zorro, toro, oso, mono, zarigueya, mamut, lobo, lobo-marino, ballena, orca, pez-gato, gallina, gallo, avestruz, jirafa, culebra, zorrillo, oso-hormiguero, catas, gacela, ciervo, asno, burro
+22111 032 03 fuego, gas, agua, aire, mezcla, contaminacion, polar-apolar, atomo-distinto, brasa, acido, sales
+22111 032 04 homogeneo, heterogeneo, coloide, suspension, solubilidad, soluto, solvente, mezcla-de-atomo, polar-apolar, sustancia, agua, sal, acido, reaccion
+22111 032 05 carburo, gas, aire, fotosintesis, sal, tierra, planta, hidrocarburo, oxigeno
+12111 033 01 oreja, dedo, mano, columna, pie, pierna, nariz, musculo-aductor, pene, vagina, pelo, cadera, isquiotibial, femur, pantorrilla
+12111 033 02 mono, ballena, iguana, dinosaurio, perro, gato, cocodrilo, koala, hamster, rata, loro, aguila, huemul, zorro, puma, leon, gacela, marmota, coipo, puercoespin, jirafa, elefante, cuervo, tiburon, delfin, pez-payaso
+12111 033 03 combustion, fuego, calor, olor, cambio-de-color, gas, elemento, compuesto, atomo, solucion, reactante, energia, formacion-de-sustancia
+12111 033 04 agua, soluto, disolvente, homogenea, heterogenea, solubilidad, agitacion, temperatura, soluto-disolvente, hidracido, oxido-basico, hidrogeno, hidruro
+12111 033 05 tierra, planta, oxidacion, descomposicion, regar, tallo, hoja, glucosa, fotosintesis, hidrocarburo, carbono, oxigeno, energia
+12111 034 01 mano, ojo, cabeza, nariz, oreja, diente, dedo, uña, ceja, pie, rodilla, muslo, gemelo, labio, lengua, uvula, costilla, estomago, craneo, neurona, pupila, codo, coxis, hombro
+12111 034 02 perro, gato, raton, conejo, elefante, jirafa, iguana, topo, leon, tigre, cebra, serpiente, araña, rinoceronte, tiburon, pez, estrella-de-mar, gacela, hormiga, araña, gusano, pollo, vaca, toro
+12111 034 03 solido, liquido, gaseoso, elemento, fuego, dioxido-de-carbono, oxigeno, cortar-hoja-de-papel, humo, combustion, efervescencia, fruta-podrida
+12111 034 04 soluto, solvente, solubilidad, homogenea, heterogenea, mezcla, agitar, calentar, saturada, insaturada, sobresaturada
+12111 034 05 invernadero, glucosa, hidrocarburo, droga
+12111 035 01 clavicula, esternocleidomastoideo, pie, uña, cabeza, ojo, oido, cuello, pestaña, ceja, pierna, mano, brazo, dedo, hombro, columna-vertebral, pelvis, corazon, higado, riñon, intestino-grueso, intestino-delgado
+12111 035 02 iguana, perro, gato, simio, gorila, raton, cocodrilo, tigre-blanco, tigre-de-bengala, leon, leopardo, cigueña, rinoceronte, cacatua, paloma, lobo, puercoespin, perico, topo, conejillo-de-india, flamenco, hipopotamo, serpiente, tortuga, sapo, rana
+12111 035 03 fuego, combustion, elemento, compuesto, disolucion, cortar, quebrar, oxidacion, podrido, congelacion
+12111 035 04 mezcla, homogeneo, heterogeneo, disolvente, soluto, insaturado, saturado, sobresaturado, concentrado, diluido, elemento, compuesto
+12111 035 05 oxidacion, fotosintesis, glucosa, hidrocarburo, agua, podrido, erosion, fosil
+ 22111 036 01 brazo, pierna, dedo, cerebro, hueso, pancreas, higado, estomago, vena, medula-espinal, uña, pelo
+22111 036 02 gato, perro, pato, elefante, loro, gaviota, cacatua, lobo, cerdo, cebra, oso-polar, zorro, conejo, mono, orangutan, tortuga, caballo, hamster, jerbo, ciervo, leon, tigre, gacela, leopardo
+22111 036 03 potasio, agua-con-sal, agua-con-azucar, hidrogeno, vaso-precipitado, mechero
+22111 036 04 soluto, solvente, saturado, sobresaturada, insaturada, jugo, azucar, sal, cafe, leche
+22111 036 05 abono, cascara-de-manzana, macroorganismo, microorganismo
+12111 037 01 ojo, nariz, boca, diente, vena, corazon, cerebro, pulmon, arteria, cabeza, pie, mano, lengua, faringe, laringe, intestino, higado, pelo, uña, dedo, tobillo, pierna, rodilla, talon, cintura, mandibula
+12111 037 02 foca, mosca, orca, gato, perro, loro, canario, murcielago, elefante, jirafa, jabali, hipopotamo, raton, hamster, cuy, serpiente, tigre, leon, condor, huemul, tortuga, delfin, pez, tiburon, lobo-de-mar, lobo, oso, koala, mantarraya, camaleon, mono, araña
+12111 037 03 reaccion-quimica, agitacion, explosion, molecula, elemento, compuesto, gramo, disolver, hetero, homo, mezcla, materia, particula, acido, cloro, agua, evaporacion, liquido
+12111 037 04 soluto, solvente, disolvente, saturado, insoluto, sobresaturado, temperatura, hetero, homo, tiempo, sal, agua, reaccion, natural
+12111 037 05 organico, fotosintesis, celula, ciclo-del-agua, evaporacion, agua
+22111 038 01 cabeza, mano, dedo, ojo, nariz, hombro, brazo, pierna, rodilla, tronco, cuello, boca, musculo, lengua, diente, oido, talon, pantorrilla, extremidad, pestaña, pupila, reproductor-masculino, reproductor-femenino
+22111 038 02 conejo, delfin, gato, elefante, perro, mono, jirafa, ballena, tigre, leon, pantera, caballo, raton, serpiente, liebre, buho, pajaro, aguila, halcon, orca, lagartija, vaca, chancho, foca, leon-de-mar, cebra, suricata, armadillo
+22111 038 03 fuego, potasio, temperatura, tiempo, vidrio-roto, fuerza, cambio, reversible
+22111 038 04 agua-con-sal, solvente, leche, cafe, jugo-en-polvo
+22111 038 05 fotosintesis
+12111 039 01 brazo, mano, pierna, dedo, cerebro, ojo, oreja, nariz, pectoral, triceps, biceps, deltoide, gemelo, antebrazo, codo, pie, pene, higado, intestino-delgado, intestino-grueso, muslo, femur, tibia, cuello, vagina
+12111 039 02 gato, perro, pato, conejo, loro, burro, vaca, gallina, burro, cerdo, ganso, delfin, tiranosaurio, triceratops, ballena, tortuga, macha, foca, lobo, lobo-marino, morsa, jabali, gorrion, guaren, raton, leon, tigre, puma
+12111 039 03 sodio-mas-potasio, agua, hidrogeno-mas-carbono, carbono-mas-oxigeno, niquel-mas-cloro, cloro-mas-oxigeno, zinc-mas-oxigeno, bromo-mas-litio, oxigeno-mas-oxigeno, condensacion
+12111 039 04 saturada, soluto, solvente, sobresaturada, insaturada, temperatura, agitacion, agua-mas-azucar, agua-mas-cafe, agua-mas-jugo
+12111 039 05 compota, hongo, marihuana
+12111 040 01 ojo, oreja, nariz, boca, diente, cerebro, craneo, mano, brazo, codo, tronco, pierna, pie, rodilla, estomago, intestino-delgado, intestino-grueso, higado, traquea, dedo-mano, dedo-pie
+12111 040 02 gato, perro, gallina, vaca, caballo, serpiente, rana, halcon, hormiga, oso-hormiguero, oso, oca, pinguino, lobo-marino, jabali, tiburon, ballena, orca, palillo, pajaro, leon, tigre
+12111 040 03 sodio-mas-potasio, dioxido-de-nitrogeno, dioxido-de-carbono, oxigeno, berilio, boro, carbono, nitrogeno
+12111 040 04 azucar, soluto, solvente, sobresaturada, insaturada, temperatura, agitacion, agua, agua-con-cafe, agua-con-leche, agua-con-jugo, agua-con-aceite, agua-con-metal, agua-con-sal
+12111 040 05 fotosintesis, humo
+12111 041 01 pene, vagina, brazo, corazon, mama, higado, pancreas, estomago, intestino, recto, gluteo, pierna, tobillo, codo, oreja, ojo, cabeza, nariz, pie, dedo, mano, uña, pestaña, ceja, vaso-sanguineo
+12111 041 02 oso, leopardo, perro, gato, zorro, mono, gallina, aguila, halcon, iguana, salmon, caballo, vaca, raton, ardilla, conejo, buho, lobo, puma, tigre, leon, chita, guepardo, pantera, jabali, chancho, gorrion, golondrina
+12111 041 03 humo, burbuja, agitacion, explosion, movimiento, elevacion, levitacion, cambio-de-color, cambio-de-forma, olor, color
+12111 041 04 soluto, bencina, agua-con-milo, agua-con-te, agua-con-jugo, agua-con-tapsin
+12111 041 05 carbon-vegetal
+22111 042 01 brazo, pierna, codo, rodilla, pie, mano, espalda, cabeza, cerebro, higado, columna-vertebral, ojo, boca, uña, diente, pelo, muslo, tobillo
+22111 042 02 vaca, caballo, gato, serpiente, perro, cebra, cerdo, raton, pez, hipopotamo, jirafa, rinoceronte, pollo, gallina, pato, cuy, foca, tortuga, lobo, pulpo, jaiba, leon, liebre
+22111 042 03 agua, dioxido-de-carbono
+22111 042 04 soluto, solvente, saturada, sobresaturada, insaturada, jugo, cafe
+22111 042 05 
+22111 043 01 cabeza, ojo, mano, brazo, pierna, pie, corazon, hueso, oreja, uña, pelo, boca, nariz, laringe, paladar, diente, estomago, lengua, pupila, faringe, tripa, mandibula
+22111 043 02 serpiente, perro, gato, culebra, araña, vaca, cerdo, gallina, mamut, hamster, cuy, sapo, raton, hipopotamo, abeja, jabali, ballena, pez-globo, delfin, lobo-marino, estrella-de-mar, caballo-de-mar, oso-polar, oso-pardo
+22111 043 03 bomba, volcan, fuego, potasio, sodio, azufre, agua, cafe, sal, azucar, hidroxido-de-carbono, hidruro, metal, oro, carbon, plata
+22111 043 04 sobresaturada, insaturada, soluto, solvente, agua, cafe, jugo, azucar, sal
+22111 043 05 planta
+12111 044 01 ojo, oreja, pelo, cuello, cabeza, torso, pierna, pie, dedo, hueso, intestino-delgado, intestino-grueso, dedo, uña, sangre, piel, pancreas, higado, nariz, paladar, lengua, diente, laringe, faringe
+12111 044 02 perro, gato, pez, serpiente, hamster, gallina, pollo, cerdo, renacuajo, guaren, rata, raton, chancho, ballena, pez-espada, foca, pajaro, lobo, lobo-marino, oso, oso-polar, oso-pardom, leon, hipopotamo
+12111 044 03 potasio, sodio, disolucion, agua, plata, cobre, oro, metal, carbon, aire, viento, fuego, fosforo
+12111 044 04 soluto, solvente, agua, saturado, sobresaturado, insaturado
+12111 044 05 fotosintesis, cloroplasto
+22111 045 01 brazo, mano, pierna, pie, cabeza, dedo, neurona, oreja, ojo, nariz, boca, pelo, craneo, cerebro, paladar, tobillo, columna, diente, vejiga, prostata
+22111 045 02 perro, gato, raton, delfin, vaca, caballo, gallina, gallo, burro, laucha, leon, conejo, ardilla, tiburon, pato, jirafa, lagartija, ballena, foca, estrella-de-mar, paloma, pajaro, oso, cebra, lobo
+22111 045 03 agua, oxigeno, potasio, aluminio, zinc, hierro, plata, cobre, oro, aire, nitrogeno, sodio fosforo
+22111 045 04 soluto sobresaturada, solvente, saturada, insaturada
+22111 045 05 fotosintesis, cloroplasto
+22111 046 01 brazo, mano, coxis, pierna, corazon, pulmon, riñon, cabeza, neurona, oreja, caja-toraxica, paladar, cerebro, craneo, pie, tobillo, dedo, columna, diente, vejiga, prostata, hombro
+22111 046 02 gato, perro, raton, delfin, vaca, caballo, gallina, gallo, burro, laucha,, conejo, hamster, tiburon, pez, pulpo, estrella-de-mar, lagartija, foca, paloma, halcon, cebra, jirafa, oso, oso-panda, lobo
+22111 046 03 potasio, cloro, hidrogeno, nitrogeno, aluminio, oxigeno, hierro, plata, cobre, oro, agua, sodio, fosforo
+22111 046 04 soluto, solvente, sobresaturada, saturada, insaturada, agua-con-azucar
+22111 046 05 fotosintesis, cloroplasto
+22111 047 01 higado, cabeza, corazon, brazo, mano, pie, ojo, pene, vagina, seno, cerebro, nariz, oreja, craneo, dedo, columna, prostata, trasero, coxis
+22111 047 02 perro, gato, vaca, loro, caballo, elefante, erizo, gallina, gallo, conejo, hamster, burro, raton, tiburon, delfin, jirafa, ballena, foca, paloma, rinoceronte, cebra, erizo, oso, oso-panda, tigre, leon
+22111 047 03 oxigeno, agua, cloro, hidrogeno, potasio, nitrogeno, zinc, hierro, sodio
+22111 047 04 limon, sal, soluto, solvente, sobresaturada, saturada
+22111 047 05 fotosintesis
+12111 048 01 brazo, mano, nariz, ojo, craneo, oreja, corazon, pene, boca, deinte, pierna, pie, dedo, uña, corazon, cerebro, intestino-grueso, intestino-delgado, poto, pancreas
+12111 048 02 perro, gato, caballo, pato, gallina, loro, pajaro, pez, delfin, ballena, tiburon, gallo, jirafa, leon, raton, ganso, lagartija, cangrejo, foca, paloma, morsa, lobo, cerdo, jabali, cebra, hamster
+12111 048 03 oxigeno, oxido, agua, potasio, zinc, hierro, cloro, sodio, sal, fosforo
+12111 048 04 limonada, salmuera, soluto, jugo, saturada, sobresaturada, insaturada
+12111 048 05 fotosintesis
+22111 049 01 brazo, mano, pierna, boca, cabeza, nariz pie, corazon, pulmon, vena, estomago, celula, garganta, torax, ojo, mejilla,uña, intestino-delgado, ovario, trompa-de-falopio, genital, dedo
+22111 049 02 perro, gato, oveja, caballo, delfin, cocodrilo, aguila, hamster, cuy, raton, zorro, avestruz, elefante, canguro, rinoceronte, foca, tortuga, camello, puma, tigre, leon, leopardo, loro, cata, hiena, llama
+22111 049 03 potasio, hidrogeno, agua, fuego, gas, carbono, platino, oxigeno, dioxido-de-carbono, aire, fosforo, temperatura
+22111 049 04 disolvente, jugo, agua, saturada, te, cafe, leche, azucaar, insaaturada
+22111 049 05 afrecho, abono, descomposicion, medio-ambiente, reciclaje, reutilizacion
+22111 050 01 oreja, lengua, diente, pupila, ceja, dedo, uña, brazo, rodilla, pie, nariz, corazon, martillo, yunque, estribo, pestaña, pulmon, riñon
+22111 050 02 vaca, perro, loro, avestruz, gato, huemul, pudu, condor, pinguino, raton, caballo, gallina, torcaza, culebra, ballena, cebra, leon, foca, marmota, jabali, oso, oso-panda
+22111 050 03 potasio, hidrogeno, agua, metano, carbono, oxigeno, silicio, sal
+22111 050 04 soluto, solvente, agua, sal, azucar, jugo, tierra, saturada, insaturada, sobresaturada, organica, inorganica, potasio, bicarbonato, jalea, estevia
+22111 050 05 cloroplasto, fotosintesis, microorganismo, macroorganismo
+12111 051 01 dedo, coxis, brazo, mesencefalo, higado, ¥pÌe, pierna, esternon, ojo, pupila, espalda, columna, abdomen, axila, gemelo, tobillo, oreja, diente, radio, cartilago, rodilla, estomago, laringe, faringe, lengua, ceja
+12111 051 02 gato, perro, nutria, loro, serpiente, raton, gallina, caballo, vaca, hombre, hamster, rana, pez, hormiga, iguana, cangrejo, elefante, jirafa, tiburon, foca, pulpo, leon, tigre, ballena, oso, oso-polar, tiburon, ballena, cangrejo, lagarto
+12111 051 03 bomba-sodio-potasio, combustion, mezcla-de-un-soluto, corrosion, cambio-del-agua, fotosintesis, hidrogeno-mas-agua
+12111 051 04 soluto, solvente, saturada, sobresaturada, insaturada, temperatura, agitacion, coloide, heterogeneo, homogeneo, mezcla, tiempo
+12111 051 05 fotosintes, celula-animal, celula-vegetal, ciclo-del-agua, mitocondria, cloroplasto, carbono, hidrogeno
+12111 052 01 higado, riñon, brazo, oreja, pierna, pie, rodilla, mano, hombro, codo, muñeca, radio, cabeza, ojo, boca, nariz, diente, abdomen, columna-vertebral, intestino-grueso, intestino-delgado, pancreas, corazon, estomago, dedo
+12111 052 02 avestruz, perro, gato, canario, delfin, ballena, hamster, leon, puma, cebra, jirafa, elefante, paloma, raton, pato, conejo, serpiente, rana, sapo, liebre, culebra, hipopotamo
+12111 052 03 sodio, potasio, nitrogeno, agitacion, oxigeno, litio, zinc, dioxido-de-carbono, monoxido-de-carbono, fotosintesis
+12111 052 04 agua-mas-sal, agua-mas-azucar, soluto, solvente, jugo, bebida, mezcla, gelatina
+12111 052 05 fotosintesis, globulo-rojo, celula, tejido, ciclo-del-agua
+22111 053 01 corazon, nariz, ojo, boca, pierna, brazo, mano, pie, higado, pulmon, cerebro, cerebelo, costilla, femur, cuello, muslo, diente
+22111 053 02 perro, gato, raton, caballo, gallina, vaca, leon, tigre, pantera, elefante, jirafa, cocodrilo, camello, aguila, hamster, tortuga, pez-espada, tiburon, foca, oso-polar, oso-panda, oso
+22111 053 03 litio, cloro, potasio, atomo, neutron, homogeneo, heterogeneo, temperatura, cantidad, agua, magnesio, proton
+22111 053 04 soluto, solvente, sal-mas-agua, cafe-mas-azucar, jugo, leche
+22111 053 05 
+12111 054 01 brazo, ojo, nariz, pierna, poto, mano, dedo, boca, pelo, uña, pecho, ovario, estomago, pulmon, diafragma
+12111 054 02 perro, gato, raton, lagartija, chancho, vaca, toro, loro, zorro, armadillo, erizo, puercoespin, caballo, pajaro, jote, paloma, cocodril, anaconda, serpiente
+12111 054 03 potasio, agua, disolver-algo, mezclar-compuesto, sodio, reactante, compuesto-quimico, producto
+12111 054 04 azucar, sal, soluto, tagatosa, sucralosa, milo, cafe, tintura-pelo
+12111 054 05 
+22111 055 01 higado, cuello, mano, cara, ojo, pie, nariz, oreja, ceja, cerebro, cerebelo, medula-espinal, hueso, dedo, uña, fosa-nasal, nudillo, pelo, pestaña, abdomen, estomago, pulmon, corazon, esofago, riñon, nuca
+22111 055 02 conejo, gato, perro, lobo, delfin, caballo, cerdo, lombriz, caracol, mariposa, oso, raton, paloma, pajaro, tiburon, leopardo, leon, gorila, mono, cordero,  pato, ciervo, gallina, cisne, jirafa
+22111 055 03 potasio, metano, temperatura, agitacion, agua, electron, proton, molecula, atomo, electricidad, concentrado, vaso-precipitado, mechero
+22111 055 04 soluto, solvente, saturada, insaturada, sobresaturada, disolucion, agua, sal, jugo, leche, cafe, milo, capuchino, azucar
+22111 055 05 abono, cascara-de-fruta, monoblasto, potasio, carbono
+12111 056 01 mano, pie, pierna, dedo, brazo, rodilla, codo, cabeza, oreja, ojo, nariz, vaca, uña, pene, higado, intestino-grueso, intestino-delgado, corazon, pulmon, estomago, garganta, recto, ano
+12111 056 02 perro, gato, lagartija, caballo, burro, loro, vaca, gallina, hombre, pez, mono, gorila, dinosaurio, cholga, tiburon, lobo, morsa, jabali, macha, carapacho, guaren, laucha, leon, jirafa, tigre
+12111 056 03 sodio-mas-potasio, explosion, agitacion, condensacion, argon, ion, contaminacion, dispersion, droga, metanfetamina
+12111 056 04 soluto, solvente, saturado, sobresaturado, insaturado, agitacion, temperatura, agua-con-cafe, agua-con-azucar, agua-con-jugo, agua-con-milo, agua-con-gas
+12111 056 05 manzana-podrida, cigarro-quemado, leña-quemada, combustion
+22111 057 01 brazo, pierna, musculo, cabeza, sistema-nervioso-central, neurona, cerebro, cerebelo, medula-espinal, ojo, nariz, encefalo, celula, globulo-rojo, dedo, cadera, costilla, cuello, pestaña, ceja, corazon, pulmon, higado, pancreas, piamadre, duramadre
+22111 057 02 vertebrado, invertebrado, conejo, mono, gato, vaca, caballo, gallina, perro, burro, tigre, leon, elefante, jirafa, lobo, zorro, jabali, cerdo, cabra, oveja, foca, pajaro, loro, canario, serpiente, canguro, ballena, delfin
+22111 057 03 temperatura, agitacion, cantidad, luz, tiempo, elemento, compuesto, sustancia, hipotesis, receta, medida-de-cuidado, oxigeno, sodio, fosforo, nitrogreno, hidrogeno, agua
+22111 057 04 mezcla, homogenea, soluto, sobresaturada, solvente, insaturada, saturada, temperatura, agitacion, agua-con-azucar, jugo-de-limon, jugo-en-polvo-mas-agua, leche-azucar, leche-sal, agua-sal, coloide
+22111 057 05 fotosintesis, celula, cloroplasto, planta, ser-vivo, energia
+22111 058 01 cabeza, ojo, nariz, oreja, boca, lengua, diente, brazo, pie, uña,dedo, corazon, higado, menton, rodilla, codo, ombligo, pierna, pecho, pelo, tobillo, talon, ligamento, arteria, sangre, ceja, pestaña, columna, labio, pulmon, costilla, hombro, ovario
+22111 058 02 gato, perro, caballo, nutria, gallina, pato, pollo, leon, murcielago, raton, ballena, vaca, pajaro, chancho, toro, pavo, foca, jabali, leopardo, hipopotamo
+22111 058 03 potasio, sodio, temperatura, vidrio-roto, fuego, oxigeno
+22111 058 04 azucar, jugo-en-polvo
+22111 058 05 fotosintesis
+22111 059 01 brazo, pierna, pie, uña, mano, dedo, estomago, corazon, pulmon, riñon, apendice, costilla, hueso, esofago, coxis, seno, musculo, oreja, ojo
+22111 059 02 perro, gato, pajaro, canario, loro, hamster, huron, araña, pulpo, pez, mantarraya, coral, cangrejo, conejo, liebre, leon, tigre, hiena, puma, foca, cebra, raton, jabali, cerdo, vaca, gallina, pollo, zorro, hipopotamo
+22111 059 03 explosion-quimica, juntar-elemento, mezclar, sodio, cloro, oxigeno, agua, fotosintesis, dioxido-de-carbono
+22111 059 04 soluto, solvente, saturado, insaturado, sobresaturado, mezcla, coloide
+22111 059 05 fotosintesis, celula-de-planta
+12111 060 01 pulmon, brazo, mano, dedo, uña, femur, corazon, higado, riñon, pie, pierna, dedo-del-pie, oreja, testiculo, pene, ombligo, pelo, ojo, barbilla, mejilla, trasero, seno, rodilla, cuello, tibia
+12111 060 02 perro, gato, caballo, loro, guacamayo, gallina, cerdo, vaca, jirafa, ganso, pato, tiburon, delfin, pez, cocodrilo, lagarto, cholga, macha, lobo-marino, morsa, jabali, guaren, laucha, leon, tigre, puma
+12111 060 03 explosion, sodio-mas-potasio, oxigeno, evolucion, argon, contaminacion, condensacion
+12111 060 04 soluto, solvente, saturada, sobresaturada, temperatura, agua, ciclo
+12111 060 05 
+22111 061 01 ojo, nariz, pancreas, dedo, uña, mano, pestaña, ceja, labio, pie, pierna, gluteo, estomago, corazon, pulmon, vena, sangre, higado, rodilla, oido, costilla, caja-toraxica, neurona, meninge, celula, cerebro, cerebelo
+22111 061 02 jirafa, elefante, raton, delfin, nutria, perro, gato, conejo, caballo, cerdo, burro, vaca, gallina, ganso, toro, cabra, oso, leon, tigre, cebra, halcon, pinguino, foca, ballena, sardina, cangrejo, jabali, cocodrilo, langosta, camaron, hiena
+22111 061 03 agua, dioxido-de-carbono, temperatura, agitacion, quemar-leña, hielo, vidrio, agua-con-gas, bebida, leche, cafe, agua-mas-sal, cloro, fuego, barro, humo, comida, oro
+22111 061 04 sobresaturada, soluto, solvente, insaturada, saturada, agua-mas-sal, leche, cafe, jugo, agua-mas-gas, agua-mas-azucar, capuchino, agua-mas-arena
+22111 061 05 abono, cascara-de-fruta, descomposicion-de-fruta, reciclaje, reutiliazar
+22111 062 01 pelo, cabeza, nariz, ojo, boca, diente, oreja, cuello, pecho, espalda, estomago, pierna, rodilla, muslo, dedo, uña, corazon, pulmon, costilla, cerebro, cerebelo, ovario, pantorrilla, tobillo, lengua, ceja, pestaña
+22111 062 02 caballo, perro, gato, vaca, hormiga, raton, cigueña, paloma, condor, alce, culebra, serpiente, cachalote, anaconda, tiburon, pez, aguila, cerdo, gallina, foca, burro, gaviota, puercoespin, jabali, oso, oso-polar, suricata, araña, leon, tigre
+22111 062 03 disolucion, sodio, hidrogeno, agua, cloro, magnesio, oxigeno, potasio, ion, electron, neutron
+22111 062 04 soluto, solvente, saturado
+22111 062 05 fotosintesis, celula, organo
+12111 063 01 oreja, ojo, labio, diente, dedo, pie, brazo, lengua, torso, musculo, corazon, higado, pulmon, pelo, sangre, uña, nervio, paladar, garganta, pestaña, faringe, laringe
+12111 063 02 perro, gato, culebra, cebra, jirafa, mamut, pollo, hamster, pez, renacuajo, aguila, rata, dinosaurio, halcon, cerdo, conejo, tiburon, foca, ballena, pez, estrella-de-mar, oso, oso-polar, oso-pardo, oso-panda
+12111 063 03 potasio, oxigeno, fuego, liquido, disolucion, carbon, sodio, cobre, plata, oro
+12111 063 04 soluto, solvente, agua, sobresaturada, insaturada, saturada, disolucion-verdadera, disolucion-falsa
+12111 063 05 fotosintesis
+22111 064 01 ojo, labio, pelo, diente, mano, brazo, rodilla, tobillo, pierna, pie, dedo, oido, lengua, paladar, nariz, garganta, timpano
+22111 064 02 vaca, caballo, cerdo, conejo, perro, gato, caracol, pajaro, cocodrilo, ballena, delfin, pato, yegua, oso-polar, tigre, leon, zorro
+22111 064 03 dioxido-de-carbono, agua, hidrogeno, litio, ecuacion, solvente, soluto
+22111 064 04 mezcla, homogenea, heterogenea, coloidal, solvente, soluto
+22111 064 05 manzana, pera, platano, agua, lenteja, tallarin, naranja, limon
+22111 065 01 pelo, ojo, nariz, boca, ceja, diente, organo, rodilla, pie, dedo, mano, uña, ojo, oreja, glandula, trasero, hueso, celula, tejido, brazo, axila, vello, guata, estomago, ombligo
+22111 065 02 mamifero, invertebrado, vertebrado, perro, gato, gorila, vaca, mono, mosca, rana, sapo, pez, tiburon, cuadrupedo, carnivoro, serpiente, zorro lagartija, paloma, caballo, cerdo
+22111 065 03 dioxido-de-azufre, agua, formula, ecuacion, mezcla, numero, letra, resultado, hidrogeno, nitrogeno, quimica, laboratorio, reaccion, mezcla-homogenea, mezcla-heterogenea
+22111 065 04 soluto, solvente, mezcla, mezcla-homogenea, mezcla-heterogenea, saturada, insaturada, sobresaturada, disolver-algo, juntar, quimica, ciencia, solucion, numero
+22111 065 05 manzana, cascara-de-huevo, materia-organica, sol, quimica, algo-que-se-recicle, numero, letra, ecuacion
+12111 066 01 ojo, pierna, pelo, oreja, ceja, pestaña, uña, pie, codo, hombro, rodilla, pulmon, corazon, vena, vaso-sanguineo, cerebro, medula-espinal, cabeza, estomago, intestino
+12111 066 02 perro, gato, vaca, lagartija, cerdo, cabra, oveja, toro, delfin, tiburon, pez, mantarraya, leon, ballena, caballo
+12111 066 03 problema-quimico, la-reaccion-al-mezclar-quimico, conjunto-de-molecula, mezclar-atomo, hacer-que-algo-reaccione
+12111 066 04 cuando-se-disuelve-algo, cantidad-maxima-de-solubilidad, cuanto-necesita-algo-para-disolverse, como-se-disuelve-algo, disolver
+12111 066 05 manzana, lechuga, cascara-de-huevo, huerta, verdura
+12111 067 01 cabeza, nariz, boca, ojo, oreja, lengua, estomago, hombro, codo, muñeca, mano, dedo, pierna, rodilla, talon, pie, testiculo
+12111 067 02 perro, gato, elefante, vaca, cerdo, jirafa, leon, aguila, hipopotamo, cebra, caballo, conejo, pato, ganso, zorro, chinchilla
+12111 067 03 dioxido-de-carbono, agua, sodio, cloro, potasio
+12111 067 04 mezclar, agua-con-azucar, leche-en-polvo-con-agua, agua-con-sal
+12111 067 05 casacara-de-huevo, manzana, casacara-de-naranja, estiercol
+22111 068 01 nariz, mano, pie, pierna, ojo, pene, estomago, corazon, higado, uña, boca, oreja, oido, brazo, dedo, pulmon, cabeza, rodilla, hombro, cerebro, pancreas, testiculo
+22111 068 02 perro, gato, vaca, cerdo, cebra, leon, jaguar, pajaro, cocodrilo, mano, gorila, puma, pelicano, nutria, huron, panda, serpiente, iguana, lagartija, hipopotamo, jirafa, mandril, gallina, pavo, zorro
+22111 068 03 tabla-periodica, reaccion, quimica, explosion, espuma, fluido, estado-solido, estado-liquido, gas, elemento
+22111 068 04 quimica, disolver, movimiento, cambiar
+22111 068 05 quimica, organico, planta
+22111 069 01 corazon, cerebro, craneo, brazo, mano, musculo, rodilla, pierna, dedo, hueso, vena, ojo, tendon, uña,cabello, higado, pulmon, traquea, esofago, lengua, nariz, oido, lengua, piel, pupila, neurona, cerebelo, riñon, apendice, columna-vertebral, vertebra, ligamento
+22111 069 02 gato, conejo, perro, tiburon, serpiente, leon, tigre, raton, pez, elefante, rinoceronte, paloma, halcon, cerdo, gallina, vaca, ternero, cabra, condor, gorrion, huemul, dinosaurio
+22111 069 03 tabla-periodica, reaccion, estado-liquido, estado-solido, estado-gaseoso, compensacion, gas, compuesto, quimico, mezcla, homogeneo, unir, juntar
+22111 069 04
+22111 069 05 quimica, organica, planta
+22111 070 01 ojo, boca, pulmon, corazon, higado, traquea, faringe, rodilla, brazo, nariz, estomago, riñon, tobillo, encefalo, costilla
+22111 070 02 caballo, cebra, hormiga, perro, gato, serpiente, ballena, pudu, puma, leon, luciernaga, tiburon, delfin, pez, gaviota, loro, gusano, cienpies, cuncuna, hipopotamo, guaren, raton
+22111 070 03 agua, dioxido-de-carbono, carbono, oxigeno, hidrogeno, magnesio, elemento, compuesto, disolucion, solucion, liz
+22111 070 04 heterogenea, compuesto, elemento, homogenea, solvente, mezclar, disolucion
+22111 070 05 carbono, cascara-de-huevo, manzana
+22111 071 01 corazon, cabeza, mano, dedo, uña, pie, hombro, arteria, vena, cartilago, higado, pulmon, craneo, encefalo, cerebro, oido, codo, brazo, antebrazo, tobillo, rodilla, femur, cabello, ojo, boca, diente, labio, cadera, costilla
+22111 071 02 hormiga, perro, gato, pajaro, condor, huemul, raton, lombriz, cucaracha, leon, pantera, jaguar, leopardo, araña, pulpo, pez, cangrejo, cienpies, murcielago, iguana, lagartija, hipopotamo, rinoceronte, guaren
+22111 071 03 agua, oxigeno, dioxido-de-carbono, elemento, compuesto, mezcla, homogenea, heterogenea, solucion, disolucion, luz, brillo, fermentacion, burbuja, cambio, producto-nuevo, ecuacion, numero, materia-prima, experimento, material, fuego, calor, energia
+22111 071 04 elemento, quimica, descubrimiento, experimento, cientifico, agua, solvente, solucion, resultado, mezclar, calor, temperatura, tiempo, cantidad, numero, ecuacion-quimica
+22111 071 05 carbono, material-organico, degradacion, medioambiente, persona, elemento, quimica
+22111 072 01 pelo, ojo, mano, pierna, dedo, pestaña, nariz, uña, oreja, estomago, musculo, boca
+22111 072 02 perro, gato, jirafa, elefante, hipopotamo, cerdo, gallina, raton, pez, tiburon, delfin, caballo, vaca, ardilla, suricata, lobo, zorro, oso-polar, oso
+22111 072 03 dioxido-de-carbono, agua, compuesto, sustancia, homogeneo, heterogeneo, elemento, sodio
+22111 072 04 agua-mas-sal, agua-mas-azucar
+22111 072 05 huerta, planta, verdura, fruta
+12111 073 01 mano, pie, cabeza, cuello, torso, abdomen, cuenca-ocular, ojo, medula-espinal, musculo, tendon, esqueleto, articulacion, sistema-sanguineo, corazon, pelvis, organo-reproductor, mandibula, timpano
+22111 073 02 iguana, perro, gato, paloma, gaviota, sapo, gusano, lagartija, caballo, conejo, topo, rana, salmon, marisco, chimpance, simio, orangutan, tigre, leon, loro, erizo, ballena, delfin, remora, camaron, krill
+22111 073 03 elemento, compuesto, energia, organismo, combustion, sublimacion, ebullicion, condensacion, solidificacion, vaporizacion, oxigeno, agua, hielo, particula, choque, cinetico, energia-cinetica
+22111 073 04 mezcla, homodiegetica, heterodiegetica, traspaso-de-luz, coloide, componente, soluto, solvente, solubilidad, separacion-de-particula, saturada, insaturada
+22111 073 05 putrefaccion, reutilizacion, biodegradable, renovable, sustancia-pura, naturaleza, oxidacion
+22111 074 01 ojo, labio, pierna, musculo, mano, oreja, nariz, dedo, pie, boca, hueso, pelvis, muñeca, rodilla, codo, antebrazo
+22111 074 02 perro, gato, pajaro, araña, oso, mono, serpiente, burro, pudu, mosca, abeja, gusano, vaca, cerdo, caballo, hasmter, conejo, gallina, pavo
+22111 074 03 dioxido-de-carbano, elemento, compuesto, reaccion, mezcla, quimico, agua, cloro, potasio
+22111 074 04 soluto, solvente, agua-con-azucar, homogenea, heterogenea
+22111 074 05 huerta, cascara-de-huevo, manzana, metano
+12111 075 01 cartilago, ojo, pelo, diente, oreja, labio-superior, labio-inferior, boca, nariz, sistema-nervioso-central, sistema-nervioso-periferico, dedo, uña, pie, mano, brazo, pierna, cintura, testiculo, ovario, ovulo, pene, vagina, garganta, cuello
+12111 075 02 iguana, perro, gato, cocodrilo, caiman, leon, tigre, leopardo, oso-pardo, oso-panda, oso-polar, hamster, humano, mono, chimpance, gaviota, paloma, tucan, camaleon, serpiente, raton, rata, tortuga, anaconda, halcon, alce, ciervo, conejo, liebre, guepardo
+12111 075 03 compuesto
+12111 075 04 homodiegetica, heterodiegetica, agua-mas-sal, leche, agua-mas-azucar, agua-mas-arena, agitar
+12111 075 05 cascara, abono, cosecha
+12111 076 01 cabeza, cuello, estomago, rodilla, pie, pierna, abdomen, pene, vagina, ovario, testiculo, oreja, ojo, nariz, boca, lengua, diente, pelo, dedo, mano, brazo, codo, rotula, tobillo, garganta
+12111 076 02 oso, oveja, mosca, avispa, perro, gato, iguana, serpiente, araña, jirafa, tigre, leon, leona, rinoceronte, gacela, alce, mono, chimpance, gorila, delfin, tortuga, tiburon, anguila
+12111 076 03 experimento, elemento, compuesto, formula, cambio-de-forma
+12111 076 04 homodiegetica, heterodiegetica, agua-mas-azucar, agua, temperatura, revolver, agitar, calor, frio
+12111 076 05 descomposicion, biodegradable, degradacion
+12111 077 01 ojo, boca, oreja, estomago, brazo, pierna, mano, cabeza, cerebro, columna, nariz, pie, mandibula, corazon
+12111 077 02 iguana, conejo, gato, perro, condor, avestruz, pez, hamster, leon, cocodrilo, puma, lechuza, antilope, tigre, mono, pinguino
+12111 077 03 dioxido-de-carbano, agua, elemento, compuesto, sodio, potasio, oxigeno, hidrogeno
+12111 077 04 liquido, agua-mas-azucar, agua-mas-sal, agua-fria, temperatura, tiempo, mezcla
+12111 077 05 desecho-quimico, reutilizar, ayudar
+22111 078 01 ojo, cuello, pie, pierna, brazo, mano, oreja, nariz, radio, vejiga, boca, lengua, codo, hombro, rodilla, dedo, espalda, columna, tobillo
+22111 078 02 burro, paloma, lagartija, tortuga, elefante, jirafa, perro, gato, hamster, raton, lobo, tigre, zorro, oso-polar, oso-panda, koala, camello, caballo, lombriz, caracol, aguila, vaca, cocodrilo, pollo, camaron, araña
+22111 078 03 dioxido-de-carbono
+22111 078 04 agua-mas-azucar, agua-caliente-mas-azucar, agua-mas-jugo-en-polvo, agua-mas-aspirina, agua-mas-sal
+22111 078 05 cascara-de-tomate, cascara-de-huevo, cascara-de-papa
+22111 079 01 pulmon, pie, pierna, ojo, cara, pelo, espalda, columna, vejiga, vagina, pene, riñon, intestino-grueso, intestino-delgado, estomago, tobillo, rodilla, uña, mano, brazo, codo, hombro, lengua, nariz, boca, frente, pomulo
+22111 079 02 perro, gato, elefante, vaca, burro, jirafa, tucan, lagartija, raton, rata, serpiente, lombriz, llama, pelicano, pez-payaso, tigre, leon, cocodrilo, lagarto
+22111 079 03 proton, electron, neutron, agua, sal, negativo, positivo, variedad, union, separacion, juntar, mezclar, elemento-quimico, tabla-periodica, quimico, laboratorio
+22111 079 04 separacion, disolucion, union-de-mezcla, mezclar-quimico, azucar-mas-leche, homogenea
+22111 079 05 pan, cascara-de-huevo, elemento-biodegradable, comida-sana, comida-organica
+12111 080 01 pelo, ojo, boca, craneo, corazon, cerebro, organo-reproductor, nariz, extremidad, pulmon, oreja, dedo, lengua
+12111 080 02 perro, gato, vaca, burro, buey, toro, caballo, jirafa, delfin, ballena, tiburon, tigre, leon, lobo, oso, gaviota, paloma, elefante, raton, cocodrilo, lagarto, serpiente, aguila, huemul, mono, chimpance, gorila, tucan, loro
+12111 080 03 union, variedad, elemento-quimico, orden-exacto
+12111 080 04 union-de-mezcla, agua-mas-azucar, separar-elemento-quimico, elemento-quimico
+12111 080 05 elemento-biodegradable, mezcla-biodegradable
+22111 081 01 ojo, nariz, boca, codo, corazon, pierna, tobillo, nuca, cabello, organo-reproductor, mano, pie, hombro, dedo, meninge, cabeza, cuello, musculo, columna, espalda, tronco, pecho, lengua, labio
+22111 081 02 perro, gato, cigueña, vaca, caballo, pato, raton, iguana, cisne, ballena, pez, cocodrilo, ardilla, camello, pavo, sapo, rana, cebra, leon, jirafa, hipopotamo, pinguino, tigre, foca, canguro
+22111 081 03 juntar, reaccionar, compartir, entregar, disolucion, mezclar, homogenea, heterogenea, coloide, suspension, materia
+22111 081 04 disolver, quimica, heterogenea, homogenea, coloide
+22111 081 05 planta, biologia, cascara-de-huevo, manzana, fruta, vida, descomposicion, carbono
+22111 082 01 pie, rodilla, muslo, clavicula, corazon, cuello, coxis, traquea, columna, pulmon, muñeca, codo, hombro, estomago
+22111 082 02 perro, gato, jirafa, hipopotamo, vaca, tucan, cocodrilo, caballo, leon, tigre, pinguino, foca, oso, sapo, mono, cigueña, aguila, orangutan, gorila, pato, gallina
+22111 082 03 mezclar, dividir, coloracion, disolucion
+22111 082 04 disolver, quimica
+22111 082 05 degradacion, fruta, planta, mezcla, biologia
+22111 083 01 nariz, ojo, boca, oreja, cabeza, pierna, brazo, pie, lengua, pelo, dedo, trasero, pestaña, timpano
+22111 083 02 perro, gato, jirafa, raton, vaca, caballo, hipopotamo, tigre, leon, oso, oso-polar, camello, cisne, serpiente, pez, tortuga, cucaracha, cienpies, palote, mariposa
+22111 083 03 agua, elemento, compuesto, materia, particula, disolucion, atomo, dioxido-de-carbono, sodio
+22111 083 04 solvente, agua-con-azucar, agua-con-sal, disolvente, agua-con-harina, homogenea
+22111 083 05 reutilizar, alimento, huerto, saludable, salud
+22111 084 01 ojo, craneo, boca, brazo, pierna, mano, cerebro, cerebelo, oreja, pie, lengua, estomago, bronquio, pulmon, estomago, esofago, traquea, corazon
+22111 084 02 perro, gato, oso, lobo, zorro, conejo, cocodrilo, raton, pez, vaca, caballo, cerdo, liebre, elefante, jirafa, ballena, mamut, foca, mantarraya, gallina
+22111 084 03 dioxido-de-carbono, mezcla, conjunto, hidrogeno, cloro, potasio, agua
+22111 084 04 frio, calor, agua-con-azucar, quimico, agua-mas-sal, agua-con-cafe, jugo, compuesto, temperatura, te, molecula
+22111 084 05 huevo, manzana, platano, arbol-de-fruta, tierra-organica, vida, salud, sin-quimico, bienestar
+22111 085 01 ojo, boca, nariz, oreja, pierna, brazo, mano, dedo, pie, diente, paladar, cabeza, cerebro, duramadre, piamadre, aracnoide, pupila, uña, rodilla, codo, hombro, torax, pelvis, vagina, vulva, trompa-de-falopio, utero, pecho
+22111 085 02 perro, gato, conejo, pajaro, vaca, araña, abeja, oveja, burro, pato, gallina, delfin, ballena, tiburon, puercoespin, ornitorrinco, zancudo, caballo, mariposa, rana, raton, mosca, lagartija, pez, zorro, cerdo, mono
+22111 085 03 dioxido-de-carbono, agua, elemento, compuesto, mezcla, mezcla-homogenea, mezcla-heterogenea, sodio, potasio, hidrogeno, carbono, solubilidad, soluto, solvente, coloide, disolucion, atomo, oxigeno
+22111 085 04 soluto, solvente, agua-mas-azucar, agua-mas-sal, homogenea, heterogenea
+22111 085 05 metano, alcano, cascara-de-huevo, manzana, verdura
+12111 086 01 ojo, dedo, uña, pie, pestaña, pelo, oreja, cerebro, pulmon, hombro, codo, hueso, cartilago, corazon, pancreas, bazo, estomago, riñon, trasero, vejiga, tendon, musculo, coxis, muslo, pierna, cornea, cerebelo, uretra, ano
+12111 086 02 perro, gato, pajaro, pollo, vaca, toro, abeja, cordero, hamster, pajaro-carpintero, foca, elefante, leon, nutria, pinguino, oso-polar, oso-panda, coyote, cuervo, elefante-marino, delfin, loro, mono, chimpance, cuy
+12111 086 03 dioxido-de-carbono, burbuja, humo, fuego, calor, fio, sodio, potasio, hidrogeno, oxigeno, laboratorio, probeta, cientifico, explosion, marie-curie
+12111 086 04 agua, mezcla, quimico, agua-mas-azucar, agua-mas-sal, agua-mas-aceite, temperatura, compuesto, elemento, molecula, agua-mas-cafe, agua-mas-te, agua-mas-agua-caliente
+12111 086 05 vida-organica, ser-humano, agua, temperatura, elemento, compuesto, molecula, agua, dioxido-de-carbono, oxido-nitrico, potasio, hidrogeno, oxigeno, planeta-tierra, universo
+22111 087 01 ojo, cuello, cabeza, nariz, torso, vagina, pene, espalda, abdomen, gluteo, pie, pierna, intestino-grueso, intestino-delgado, pelvis, dedo, brazo, mano, boca, rodilla, hombro, codo, tendon, pelo, diente, lengua, oreja
+22111 087 02 perro, caballo, gato, vaca, leon, puma, chancho, huemul, condor, serpiente, aguila, murcielago, ballena, pez, culebra, pajaro, lobo, sapo, raton, rana, cangrejo, guanaco, flamenco, elefante, halcon, abeja, mono, oveja
+22111 087 03 agua, dioxido-de-carbono, potasio, sodio, oxigeno, bromo, fosforo, nitrogeno, hidrogeno
+22111 087 04 agua-mas-azucar, agua-caliente-mas-azucar, agua-mas-jugo, agua-mas-sal, leche-mas-azucar, agua-caliente-mas-cafe, agua-mas-te, agua-mas-limon
+22111 087 05 cascara-de-huevo, cascara-de-papa, cascara-de-platano, cascara-de-naranja, invernadero, huerta, petalo, manzana-pdorida, basura
+12111 088 01 corazon, pulmon, riñon, brazo, pierna, codo, hombro, diente, ojo, nariz, pelo, ceja, labio, mano, dedo, clavicula, intestino, pie, cadera, uña, higado, oreja
+12111 088 02 oso, perro, gato, murcielago, ornitorrinco, rinoceronte, jirafa, mono, avestruz, flamenco, pez, delfin, ballena, pulpo, leopardo, tigre, leon, mantarraya, cebra, cordero, cerdo, oveja, abeja, hormiga, gorila, chimpance, babuino, serpiente
+12111 088 03 agua, dioxido-de-carbono, cloruro-de-magnesio, cloruro-de-sodio
+12111 088 04 homogeneo, heterogeneo, tangente
+12111 088 05 naturaleza, fruta, manzana
+12111 089 01 cabeza, brazo, muslo, dedo, pierna, ojo, cerebro, pie, mano, rodilla, codo, oreja, tobillo, lengua, diente, pene, testiculo, femur, torax, corazon, vena, traquea
+12111 089 02 
+12111 089 03 dioxido-de-carbono, agua, cloruro-de-sodio, oxigeno, constante-de-disociacion-acida
+12111 089 04
+12111 089 05
+22111 090 01 ojo, cerebro, pecho, estomago, vagina, pelvis, diente, boca, lengua, pupila, pelo, muslo, oreja, nervio, mano, pie, uña, pestaña, ceja, iris, celula, pene
+22111 090 02 serpiente, gato, perro, vaca, elefante, tortuga, hipopotamo, pajaro, paloma, rinoceronte, pulpo, ballena, pez, lombriz, leon, leopardo, raton, oveja, abeja, mono, aguila, halcon, flamenco
+22111 090 03 dioxido-de-carbono, agua, sodio, potasio, oxigeno, nitrogeno, hidrogeno
+22111 090 04  agua-mas-azucar, agua-mas-sal, agua-mas-cafe, azucar-mas-limon, agua-mas-te, agua-mas-jugo
+22111 090 05 cascara-de-huevo, huerta, invernadero, petalo, manzana, cascara-de-platano
+22111 091 01 mano, pierna, brazo, cuello, cabeza, pie, vagina, pene, corazon, pulmon, pancreas, utero, ovario, intestino-grueso, intestino-delgado, dedo, pulmon, garganta, cerebro, cerebelo, piel, microglia
+22111 091 02 elefante, jirafa, perro, oveja, abeja, serpiente, gato, sapo, zorro, leon, puma, aguila, condor, picaflor, pez-globo, pez-payaso, pez-espada, pez-martillo, loro, cata, hormiga, mariposa, gusano, caracol, lombriz, polilla, saltamontes
+22111 091 03 agua, monoxido-de-carbono, hidrogeno, yoduro-de-potasio, nitrogeno, fosforo, fluor, potasio
+22111 091 04 saturada, insaturada, sobresaturada, agua-mas-sal, agua-mas-azucar, jugo
+22111 091 05 reutilizable, cascara-de-huevo, huerta, invernadero, petalo, manzana, cascara-de-platano
+22111 092 01 ojo, mano, nariz, boca, lengua, oreja, pierna, pie, tobillo, rodilla, rotula, codo, dedo, antebrazo, hombro, espalda, columna, corazon, garganta, pomulo, bronquio, femur, uña, diente
+22111 092 02 raton, lagarto, perro, gato, camello, cocodrilo, lombriz, caballo, vaca, pollo, camaron, araña, araña-pollito, serpiente, lagartija, pez-gato, tiburon, ballena, calamar, pez-espada, pez-martillo, pelicano, cigueña, pinguino, foca
+22111 092 03 dioxido-de-carbono, mezcla, homogenea, heterogenea, compuesto, formula, reaccionar, sustancia-pura, compuesto, elemento, molecula, sodio, potasio
+22111 092 04 homogenea, heterogenea, mezcla, compuesto, elemento, molecula, gramo, mililitro, agua, sustancia
+22111 092 05 compost, mezclar, cosa, cascara-de-huevo, abono, fertilizante, tierra, quimica, biodegradable, basura
+22111 093 01 cara, ojo, boca, nariz, oreja, pierna, pie, brazo, codo, mano, hombro, dedo, pelo, ceja, corazon, organo-reproductor-femenino, higado, estomago, pecho, abdomen, cintura, cuello, uña, pene, vagina
+22111 093 02 perro, gato, raton, paloma, huron, mamut, elefante, tigre, leon, nutria, hiena, leopardo, escorpion, lagartija, serpiente, cocodrilo, delfin, pez, tiburon, salmon, halcon, loro, gorila, caballo, burro, cebra, camaleon, oso
+22111 093 03 explosion, compuesto, elemento, dioxido-de-carbono, agua, sodio, mezcla, disolucion, experimento, material, gas
+22111 093 04 descomposicion, componente, gas, mezcla, compuesto, elemento, coloide, heterogeneo, homogeneo
+22111 093 05 compuesto-organico, componente, fertilizante
+22211 094 01 mano, pierna, cabeza, dedo, ojo, boca
+22211 094 02 perro, gato, reptil, mamifero, chancho, pollo, zorro, oveja, ave, mariposa, caracol, canario, raton
+22211 094 03 masa-masa, cloro, elemento-quimico, cambio
+22211 094 04 soluble, disolvente, disolucion-del-agua, tierra-agua, complejo
+22211 094 05 planta, natural, industria, elemento-organico, pastel-de-alga
+12211 095 01 cabeza, hombro, rodilla, pie, boca, oreja, ojo, nariz, mano, dedo, uña, brazo, pierna, talon, canilla, femur, muslo, codo, cabeza, timpano, craneo, espalda, cerebro, fosa-nasal, lengua, diente
+12211 095 02 lagarto, delfin, perro, gato, hamster, roedor, lagartija, piure, caracol, araña, rata, alacra, tiburon, caballo, vaca, avestruz, cerdo, gallina, yegua, potro, camaleon, dinosaurio, ballena, pez, condor, huemul
+12211 095 03 fotosintesis, acido, carbono, cloro, hidrogeno, oxigeno, sulfuro, sodio, molaridad, molalidad, atomo, peso, velocidad, erosion, evaporacion, condensacion, quimico, coloide, sintesis, disolucion
+12211 095 04 soluto, disolvente, solvente, molar, molaridad, atomico, atmosfera, kelvin, mol, glucosa, atraccion-molar, volumen, peso-atomico, quimica, carbono, nitrogeno
+12211 095 05 membrana-celular, celula, pared-celular, planta, fotosintesis, cloroplasto, plastido, descomposicion
+22211 096 01 pie, mano, dedo, uña, cabeza, cerebro, cabello, oreja, ombligo, tronco, pierna, rodilla, brazo, cuello, hueso, corazon, riñon, traquea, pancreas, pulmon, ojo, nariz, boca, mejilla, pecho, vagina, pene
+22211 096 02 ornitorrinco, elefante, perro, gato, murcielago, leon, jirafa, tigre, puma, cerdo, loro, hormiga, cucaracha, zancudo, dinosaurio, toro, vaca, caballo, pato, perico, gallina, cuervo, ballena, pez, cangrejo, rinoceronte, cienpies, bufalo, camello, cebra, hamster, conejo, tortuga, jabali, picaflor, huron, erizo, raton, lagartija, tiburon, serpiente, estrella-de-mar, ardilla, camaleon, iguana, araña
+22211 096 03 masa-masa, acido, cloro, potasio, sulfato, carbon
+22211 096 04 agua, oxigeno
+22211 096 05 planta
+22211 097 01 cabeza, brazo, diente, boca, pulmon, corazon, mano, pierna, oreja, ojo, pelo, dedo, pie, higado, pancreas, vesicula, musculo, cerebro, sistema-nervioso, estomago, tronco, ceja, pestaña, organo-reproductor, ovario
+22211 097 02 perro, gato, kiwi, koala, cocodrilo, chancho, jirafa, hipopotamo, aguila, abeja, mamut, dinosaurio, jabali, oso, tiburon, pez-globo, pez-gato, pez-espada, pez-dorado, ballena, cangrejo
+22211 097 03 cloro, dioxido-de-carbono, elemento, compuesto, molaridad, molalidad, presion-osmotica, porcentaje-masa-masa, porcentaje-masa-volumen, porcentaje-volumen-volumen
+22211 097 04 disolvente, soluto, disolucion, masa, masa-molar, volumen, nitro, mol, gramo-mol, mol-litro, mol-kilogramo, presion-osmotica, densidad, kilogramo, gramo, glucosa
+22211 097 05 planta
+12211 098 01 hueso, neurona, cromosoma, musculo, agua, cerebro, higado, estomago, intestino, calcio, carne, uña, mano, pie, cabeza, ojo, adn, globulo-rojo, globulo-blanco, hierro, pupila, celula, pelo, poro, piel
+12211 098 02 vertebrado, invertebrado, bipedo, reptil, aracnico, pez, mamifero, insecto, leon, jaguar, humano, dinosaurio, canguro, hibrido, carnivoro, herbivoro, omnivoro, insectivoro, ave, felino, canin
+12211 098 03 bomba-sodio-potasio, elemento-quimico, compuesto, irreversible, vida, dia, cambio, escuela, tarea, explosion, carbon, sodio, hierro, glucosa
+12211 098 04 solucion, complejo, mezcla, soluto, disolvente, formula, predecible, sustancia, liquido, solido, gas, agua, aceite, glucosa, acido
+12211 098 05 naturaleza, reaccion-natural, vida, planta, ser-vivo, animal, cuerpo-humano, interior-de-un-ser-vivo
+12211 099 01 ojo, pie, nariz, craneo, encefalo, corazon, diente, dedo, pene, vagina, codo, hombro, cuadriceps, triceps, biceps, gemelo, pecho, espalda, pierna, nudillo, gluteo, oreja, cerebro, columna, pelo, mano
+12211 099 02 mono, elefante, orangutan, leon, hiena, jaguar, leopardo, cerdo, perro, gato, mosca, humano, mamut, tiranosaurio-rex, triceratop, conejo, oso, salmon, trucha, bacalao, ballena, cangrejo, velocirraptor, pez-payaso
+12211 099 03 cloro, hidrogeno, calcio, potasio, manganeso, energia, transformacion, helio, xenon, molaridad, fusion, carga, electron, proton, cobre, cobalto, mercurio, carbono, sodio
+12211 099 04 soluto, disolvente, masa-molar, volumen-masa, molalidad, mol, masa, masa-masa, volumen-volumen, volumen-masa, disolvente, presion-osmotica
+12211 099 05 carbono, hidrogeno, bacteria, planta, plancton, descomposicion
+22211 100 01 apendice, amigdala, medula-espinal, ojo, boca, oido, pie, pierna, muela, diente, nariz, uña, mano, dedo, vena, traquea, pulmon, corazon, riñon, intestino-grueso, intestino-delgado, cerebro
+22211 100 02 perro, gato, conejo, culebra, cebra, serpiente, raton, hiena, oso-polar, oso-hormiguero, cobra, lobo, oveja, abeja, pez, pez-espada, pez-espada, oso-panda, burro, tiburon, delfin, ballena
+22211 100 03 quimica, fenomeno, disolucion, mezlca, reaccion, compuesto, componente, tabla-periodica, ecuacion, suma, multiplicacion, sustancia
+22211 100 04 soluto, disolvente, disolucion, mol, litro, kilogramo, agua, jugo, polvo, leche-en-polvo, milo, mezcla, disolucion
+22211 100 05 estudio-de-molecula, organismo, tierra-organica, molecula, naturaleza
+12211 101 01 brazo, ojo, ceja, oreja, piel, dedo, pierna, estomago, pulmon, mano, pie, muslo, vaso-sanguineo, vena, hernia, cartilago, nariz, boca, diente, lengua, cerebro, cuerda-vocal, pestaña
+12211 101 02 perro, gato, jirafa, tigre, leon, halcon, serpiente, iguana, cerdo, gallina, oveja, escarabajo, tortuga, pez, elefante, mamut, rinoceronte, hipopotamo, cocodrilo, avispa, hormiga, aguila, pantera, gacela, avestruz, hiena
+12211 101 03 compuesto, materia, tabla-periodica, elemento, ebullicion, evaporacion, condensacion, vaporizacion, ecuacion, disolucion, compuesto
+12211 101 04 soluto, disolvente, molalidad, molaridad, molar, porcentaje
+12211 101 05 planta, tierra, mar
+22211 102 01 oreja, estomago, intestino-grueso, intestino-delgado, torax, cadera, pie, brazo, cabeza, vesicula, cerebro, cara, retina, ojo, abdomen, medula-espinal, encefalo, boca, lengua, mano
+22211 102 02 raton, gato, perro, mamut, caballo, cebra, leon, jirafa, gorila, mono, avestruz, buitre, cocodrilo, salamandra, pez, sanguijuela, babosa, caracol, aguila, leopardo, jaguar, oso, panda, paloma, marmota, hipopotamo, foca
+22211 102 03 mezcla, fusion, acido, solvente, soluto, sodio, masa, ecuacion, solucion, formula, transformacion, agua
+22211 102 04 solvente, soluto, formula, ecuacion, porcentaje, masa, fraccion-molar, molaridad, osmosis, conentracion, mol, puro, agua-mas-sal, glucosa, masa-molar, densidad
+22211 102 05 tierra, abono, planta, hoja, resto-de-fruta, cascara, piedra
+22211 103 01 retina, femur, brazo, mano, falange, pie, tobillo, dedo, radio, pulmon, alveolo, cerebro, cerebelo, medula-espinal, iris, pupila, fosa-nasal, nariz, lengua, papila-gustativa, encia, diente, frenillo, encefalo, mucosa, higado, hueso
+22211 103 02 perro, gato, pajaro, hamster, cuy, leopardo, leon, iguana, elefante, ciervo, venado, huemul, condor, hormiga, lombriz, lagartija, dinosaurio, aguila, colibri, escarabajo, pudu, chinchilla, gacela, conejo, vaca, cordero, oveja, buey, mula, yegua, delfin, pez, araña, pollo, gallina, jirafa, puma, pantera, gato-montes, escorpion
+22211 103 03 luz, oxigeno, agua, fuego, dioxido-de-carbono, metano, cloruro-de-sodio, vector, reactante, producto, quimico, gas, liquido, solido, reaccion, creacion, union, suma, proton, neutron, electron, orbita, carbono
+22211 103 04 soluto, disolvente, puro, compuesto, elemento, homogeneo, heterogeneo, ecuacion, litro, mililitro, gramo, kilogramo, formula, mezcla, union, agregar, rebalsar, lleno, organico, solvente, disolucion, glucosa, liquido, solido, gaseoso
+22211 103 05 quimica, organica, puro, compuesto, agregar, natural, elemento, disolver, reactante, producto
+22211 104 01 ojo, cara, pelo, hueso, craneo, mano, dedo, pie, cuello, labio, nariz, ceja, pestaña, oreja, tobillo, pie, garganta, pulmon, corazon, traquea, bronquio, ovario, utero, pancreas, apendice, fosa-nasal, timpano, diente, trompa-de-falopio, pene, vagina, tobillo, cerebro, cerebelo, medula-espinal, tronco-encefalico
+22211 104 02 gato, perro, pez, caballo, pato, cerdo, vaca, lobo, tortuga, ballena, foca, oso-polar, oso-panda, avestruz, anguila, camaleon, mariposa, zancudo, caracol, escorpion, hamster, raton, aguila, rinoceronte, jirafa, leon, hipopotamo, paloma, rana, renacuajo, pollo, gallina, cisne, erizo, pulpo, delfin, gaviota, araña, araña-pollito, araña-de-rincon, jirafa, tigre, puma, leon, lagartija, lombriz
+22211 104 03 oxigeno, carbono, enlace, ion, quimica, hidrogeno, litio, negatividad, configuracion-electronica, electron-diferencial, hidrogeno, oro, tabla-periodica, producto, reactante, ecuacion, masa-molar, molaridad, fraccion-molar, mol, masa, gramo, densidad, volumen, electromagnetismo, sodio, cloruro-de-sodio
+22211 104 04 soluto, solvente, agua, densidad, formula, presion, litio, kilogramo, mol, masa, gramo, disolvente, producto, fraccion-molar, masa-molar, ecuacion, carbono, formula, molaridad, porcentaje, masa-masa, masa-volumen, volumen-volumen, elemento, compuesto
+22211 104 05 enlace-covalente, carbono, tierra, agua, sol, electron, ion
+22211 105 01 cabeza, mano, brazo, corazon, pulmon, higado, ojo, nariz, boca, lengua, pie, dedo, uña, sangre, vena, cerebro, tronco, hueso, oreja, intestino-grueso, intestino-delgado
+22211 105 02 gato, perro, delfin, mono, vaca, caballo, pollo, gallina, elefante, jirafa, cerdo, pez, leon, tigre, ballena, alce, cabra, toro, loro, orca, hamster, cuy, lagartija, cocodrilo, rinoceronte, camello, avestruz, condor, culebra, serpiente, oso, oso-panda, koala
+22211 105 03 fusion, producto, sustancia, agua, transformacion, quimica, molalidad, ecuacion, numero, hidrogeno
+22211 105 04 soluto, disolvente, masa, agua, mezcla, sustancia, mol, formula, ecuacion, metal, compuesto, litro, quimica, glucosa, agua
+22211 105 05 arbol, carbon, tierra, oxigeno, hidrogeno, planta, pasto, sol, agua, aire, basura
+12211 106 01 radio, caja-toraxica, femur, uña, mano, pierna, brazo, ojo, pestaña, boca, nariz, ceja, traquea, iris, cornea, pulmon, higado, riñon, pecho, codo, rodilla, cerebro, cerebelo
+12211 106 02 gato, perro, ballena, leon, chita, puma, tigre, pez-payaso, pez-espada, gaviota, aguila, dodo, tiranosaurio, lagarto, cocodrilo, pulpo, tiburon, tiburon-blanco, ballena-azul, huemul, guanaco, condor, venado
+12211 106 03 acido, explosion, quimico, compuesto, tubo-de-ensayo, microscopio, disolucion, transformacion
+12211 106 04 soluto, disolvente, temperatura, molaridad, molalidad, fraccion-molar, mol, masa, masa-molar
+12211 106 05 tabla-periodica, elemento-organico, carbono, sodio, potasio
+22211 107 01 corazon, pulmon, oido, labio, ojo, mano, brazo, dedo, pierna, rodilla, cerebro, cuello, pecho, colon, nariz, pie, mandibula, rodilla, diente, cartilago, hueso
+22211 107 02 perro, gato, delfin, iguana, raton, cerdo, mantis-religiosa, chinchilla, kiwi, gaviota, avestruz, conejo, tigre, leon, mono, orangutan, gato-montes, pantera, llama, ciervo, hipopotamo
+22211 107 03 agua, glucosa, acido, molaridad, molalidad
+22211 107 04 agua, jugo-disuelto-en-agua, tierra-disuelta-en-agua, elemento-disuelto-en-agua
+22211 107 05 carbono, hidrogeno, oxigeno, nitrogeno
+22211 108 01 cabeza, ojo, cuello, boca, nariz, pelo, vagina, pene, mano, brazo, biceps, uña, estomago, faringe, laringe, pie, pierna, triceps, clavicula, piel, cerebro, oreja, riñon, utero, muñeca
+22211 108 02 lagartija, araña, ballena, leon, tigre, halcon, salmon, dinosaurio, megalodon, tiburon, iguana, jaguar, perro, gato, conejo, raton, culebra, serpiente, pajaro, aguila, toro, jabali, cerdo, jirafa, cocodrilo, calamar
+22211 108 03 dioxido-de-carbono, fotosintesis
+22211 108 04 nitrogeno, dioxido-de-carbono, quimica, glucosa
+22211 108 05 nitrogeno, clorofila, plancton, hidrogeno
+22211 109 01 cabeza, brazo, hueso, medula-espinal, craneo, cerebro
+22211 109 02 perro, gato, vaca, caballo, camello, toro, burro, gallina, pato, aguila, chancho, raton, loro, serpiente, mono, cucaracha, jirafa, elefante, leon, pantera-negra, tigre, cocodrilo, pez, hamster
+22211 109 03 acido, hidrogeno, carbono, filtracion, oxigeno, agua, decantacion, despolarizacion, masa-molar, fraccion-molar, molaridad, molalidad
+22211 109 04 disolvente, soluto, solvente, filtracion, decantacion, acuosa, disolvente
+22211 109 05 agua, glucosa, tierra, organica
+22211 110 01 corazon, ojo, pulmon, labio, mano, pie, cabello, nariz, uña, columna, oido, dedo, cerebro, pestaña, pupila
+22211 110 02 perro, gato, aguila, pato, cuervo, serpiente, raton, cerdo, pajaro, lince, zorro, rinoceronte, ciervo, conejo, leon, tigre, lagarto, cocodrilo, orangutan, mono, cangrejo, elefante
+22211 110 03 molaridad, elemento, tabla-periodica, calculo, porcentaje, ecuacion, reactante
+22211 110 04 disolvente, solvente, ecuacion, calculadora, mol, litro, grado-celsius, grado-kelvin
+22211 110 05 naturaleza, reciclaje, medida-de-cuidado, planta
+22211 111 01 boca, ojo, traquea, mano, pie, pierna, nariz, cabeza, muslo, tobillo, codo, cerebro, lengua
+22211 111 02 perro, gato, jirafa, canguro, vaca, leon, tigre, serpiente, murcielago, halcon, pato, sapo, conejo, buho, ballena, tiburon, pez
+22211 111 03 erupcion, explosion, fotosintesis, carbono
+22211 111 04 soluto, disolvente, solucion, disolucion, molaridad, molalidad, mol
+22211 111 05 tierra, agua
+22211 112 01 cabeza, oreja, lengua, nariz, mano, ojo, brazo, pene, pie, trasero, pierna, pectoral, gluteo, mejilla, radio, cerebro, pulmon, corazon, hueso, higado
+22211 112 02 leon, delfin, tigre, lince, cacatua, cocodrilo, tiburon, gacela, raton, araña, cucaracha, serpiente, lagartija, iguana, toro, vaca, perro, gato, leopardo, puma, avestruz, pez-globo, pez-espada, rinoceronte, elefante
+22211 112 03 carbono, ciencia, cloro, calcio, experimento, objeto-de-laboratorio, disolucion, ecuacion, investigacion, mezcla, sustancia, hidrocarburo
+22211 112 04 soluto, disolvente, disolucion, quimica, ciencia, tabla-periodica, formula, dificil, experimento, sustancia, materia, laboratorio, pizarra, complicado
+22211 112 05 organo, ciencia, alimento-organico, laboratorio, plancton, basura, objeto-reciclable
+12211 113 01 femur, radio, muñeca, diafragma, pulmon, corazon, labio, nariz, boca, oreja, cabeza, ojo, pupila, iris, higado, pancreas, estomago, craneo, esofago, traquea, medula-espinal, ceja, uña, encefalo, cerebelo, cerebro, mano, dedo, pie, pierna, pene, riñon, uña
+12211 113 02 mono, mosca, foca, nutria, caballo, yegua, burro, asno, vaca, toro, loro, cerdo, jabali, raton, araña, mariposa, leon, puma, mamut, dedo, halcon, buitre, condor, perro, gato, huemul, pudu, elefante, langosta, lagartija, camaleon, iguana, pez-espada, pez-payaso, tiburon, tortuga, delfin, ballena
+12211 113 03 acido, combustion, combustible, hidrogeno, helio, fuego, moralidad, molalidad, porcentaje-masa-masa, porcentaje-masa-volumen, porcentaje-volumen-volumen, fraccion-molar, litio, carbono, oxigeno
+12211 113 04 soluto, disolucion, mezcla-heterogenea, mezcla-homogenea, disolvente, molaridad, molalidad, porcentaje-masa-volumen, porcentaje-volumen-volumen, fraccion-molar, mol, benceno, agua, disolvente-puro, carbono, glucosa, dioxido-de-carbono, agua
+12211 113 05 quimica, organica, glucosa
+12211 114 01 cabeza, radio, femur, mano, pierna, tobillo, oreja, boca, brazo, hombro, ojo, nariz, dedo, pestaña, pene, cartilago, higado, estomago, colon, apendice, corazon, esofago, garganta, traquea, coxis, gluteo, cerebro, cerebelo, pestaña, pomulo
+12211 114 02 perro, gato, ballena, pez, lagarto, koala, panda, oso, lemur, coyote, puma, chita, gacela, leon, hormiga, serpiente, hipopotamo, dedo, tigre, jaguar, tiranosaurio, perezoso, halcon, aguila, condor, gato-montes, pudu, huemul, pinguino, oso-polar
+12211 114 03 combustion, explosion, acido, parafina
+12211 114 04 soluto, disolvente, disolucion-quimica
+12211 114 05 quimica, organica, plancton
+12211 115 01 mano, pie, cabeza, tobillo, rodilla, codo, dedo, uña, pelo, ojo, nariz, oido, cerebro, cerebelo, craneo, nudillo, antebrazo, hombro, empeine, ombligo, pene, vagina, pubis, pantorrilla, nalgas, pomulo, espalda, costilla, pulmon, corazon, higado, ano, cuello
+12211 115 02 perro, gato, coipo, raton, leon, tigre, jirafa, conejo, liebre, ardilla, chancho, laucha, tiburon, hormiga, escarabajo, oso, koala, panda, dinosaurio, mamut, oso-polar, castor, iguana, alce, reno, pajaro, condor, huemul, pavo-real, ganso, pato, jabali, venado, cangrejo, pez
+12211 115 03 mezcla, ebullicion, fundicion, condensacion, vaporizacion, mezcla-homogenea, explosion, erupcion-volcanica, gas-licuado, lluvia-acida, granizo, lluvia
+12211 115 04 jugo, hoguera, soluto, disolvente, mezcla, homogenea, heterogenea, agua-con-sal, agua-con-azucar, mol
+12211 115 05 basura, cascara-de-papa, cascara-de-manzana, tierra, coco, secrecion, cascara-de-sandia, planta, cascara-de-platano
+12211 116 01 ojo, boca, diente, pelo, mejilla, brazo, pene, pierna, cadera, femur, radio, pie, dedo, uña, gluteo, estomago, oreja, pestaña, ceja, lengua, paladar, cerebro, rodilla, codo
+12211 116 02 coipo, raton, perro, mula, vaca, ballena, tapir, leon, chancho, cebra, tigre, oso, gato, drago-de-komodo, suricata, pajaro, aguila, condor, halcon, lobo, zorro
+12211 116 03 quimica, reactante, acido, soluto, componente, elemento, ecuacion
+12211 116 04 cloruro-de-sodio, salmuera, molaridad, litro, masa-molar, presion, osmosis, agua, soluto, disolvente, elemento, fraccion-molar, milimetro-de-mercurio, glucosa
+12211 116 05 abono, tierra, planta, agua
+12211 117 01 radio, femur, cuello, cabeza, ojo, pelo, piel, mano, pelo, uña, pie, pierna, femur, corazon, pulmon, retina, higado, ceja, bronquio, intestino, diafragma, columna, tobillo, muñeca, cerebro, cerebelo
+12211 117 02 raton, perro, gato, caballo, cacatua, burro, yegua, vaca, toro, vaquilla, tenera, oveja, cordero, pato, gallina, camaron, muercielago, jirafa, elefante, pudu, aguila, halcon, tiburon, atun, sierra, salmon, lenguado, escorpion
+12211 117 03 combustion, elemento, quimica, solidificacion, evaporacion, laboratorio, deshidratacion, explosion, descongelar, molalidad, molaridad, frasco
+12211 117 04 simple, compleja, elemento, mol, molalidad, molaridad, kelvin, litro, kilogramo, glucosa, agua, dioxido-de-carbono
+12211 117 05 tierra, agua, cesped, arbol, animal, mar, plancton, fruta, naturaleza
+12211 118 01 ojo, labio, brazo, pierna, pectoral, abdomen, pie, abductor, gemelo, biceps, triceps, cuadriceps, gluteo, rotula, nariz, ceja, pelo, uña, mano, muñeca, codo, hombro, isquiotibial, antebrazo, cara, oreja, piel, pupila, retina
+12211 118 02 culebra, serpiente, perro, gato, leon, sapo, rana, gallina, gallo, cerdo, caballo, raton, castor, coipo, golondrina, elefante, gorila, mono, mamut, gusano, culebra, piton, anaconda, ganso, pato, aguila, condor, huemul, coipo, palote, mantis-religiosa, leopardo, avestruz, ñandu
+12211 118 03 agua, glucosa, disolucion, soluto, disolvente, masa, volumen, molaridad, molalidad, fraccion-molar, osmosis, difusion-simple, presion, ebullicion, evaporacion, ecuacion, formula, elemento, molecula, gas-noble, solido, liquido, gaseoso
+12211 118 04 disolvente, soluto, fraccion-molar, masa-masa, masa-volumen, volumen-volumen, molalidad, molaridad, osmosis, presion-pura, mercurio, kelvin, masa-molar, mol, masa, elemento, formula, ecuacion, diluyente, destilacion, cristalizacion, coloide, numero-atomico
+12211 118 05 vida, molecula-vital, elemento-de-la-vida, biologia, organismo
+22211 119 01 corazon, celula, tejido, piel, brazo, cabeza, cerebro, pulmon, pierna, tobillo, pene, vagina, medula-espinal, neurona, hueso, mano, oreja, musculo, arteria, nervio, columna, estomago, sangre, pancreas, apendice
+22211 119 02 leon, pantera, perro, lince, puma, leopardo, guepardo, gato, lagartija, cabra, vaca, mosca, libelula, abeja, dinosauria, mamut, perezoso, ardilla, nutria, castor, ornitorrinco, cuervo, condor, jabali, elefante, tigre, hamster, raton, conejo, araña, mantis-religiosa, palote, gusano, serpiente
+22211 119 03 reaccion-de-combustion, formula, molaridad, fraccion-molar, coeficiente, balance, molecula, atomo, carga, combustible, agua, elemento, configuracion-electronica, producto, reactante, carbono
+22211 119 04 disolvente, soluto, elemento, agua, fraccion-molar, gramo, mol, molaridad, molalidad, mezcla, calculo
+22211 119 05 nitrogeno, oxigeno, carbono, dioxido-de-carbono, hidrogeno, agua, gas, molecula, molecula-de-agua
+22211 120 01 femur, coxis, clavicula, corazon, pulmon, cerebro, riñon, apendice, intestino-grueso, intestino-delgado, estomago
+22211 120 02 lagarto, perro, gato, foca, ballena, cocodrilo, hamster, ardilla, pez, tiburon, raton, mantarraya, pulpo, lobo, zorro, loro, gaviota, paloma, calamar, oso, erizo, pez-payaso, leon, leopardo
+22211 120 03 molaridad, molalidad, masa-masa, elemento, quimica, volumen, porcentaje, litro, kilogramo
+22211 120 04 soluto, disolvente, molaridad, molalidad, porcentaje, porcentaje-masa-masa, porcentaje-masa-volumen, porcentaje-volumen-volumen, mol, estequiometria, masa-molar, sodio, cloro, glucosa
+22211 120 05 arbol, planta, tierra
+12211 121 01 pierna, cabeza, brazo, mitocondria, reticulo-endoplasmatico-liso, reticulo-endoplasmatico-rugoso, encefalo, medula-espinal, ojo, labio, diente, encia, uña, dedo, pie, celula, tejido, organismo, trompa-de-falopio, pene, testiculo, ceja, pestaña, pelo, vena, arteria, cerebro, neurona, receptor, sistema-nervioso-central, sistema-nervioso-periferico
+12211 121 02 raton, perro, lagarto, gato, hamster, escorpion, serpiente, culebra, lagartija, araña, mosca, conejo, liebre, huemul, condor, rinoceronte, delfin, elefante, cocodrilo, orangutan, gorila, chimpance, mono, venado, oveja, liebre, mantis-religiosa
+12211 121 03 molaridad, molalidad, homogeneo, heterogeneo, tabla-periodica, equilibrio, vapor, presion, ecuacion, sustancia
+12211 121 04 homogenea, heterogenea, mol, carbono, masa-molar
+12211 121 05 abono, tierra, vegetal, fruta, cascara, capa
+22211 122 01 ojo, boca, hueso, corazon, brazo, pierna, neurona, dedo, tripa, costilla, nariz, cabeza
+22211 122 02 perro, gato, rinoceronte, camello, pez, delfin, leon, cerdo, leopardo, hamster, hiena, lagarto, burro, caballo, oveja, lobo, zorro, mamut, oso, abeja, hormiga, oso-hormiguero, ballena, tigre, puercoespin, caballo-de-mar, gato-montes
+22211 122 03 oxigeno, hidrogeno, carbono, sodio, nitrogeno
+22211 122 04 ionico, solido, liquido
+22211 122 05 hidrogeno, sodio, nitrogeno, oxigeno
+22211 123 01 femur, humero, ojo, brazo, tendon, mano, espalda, pierna, nariz, boca, oreja, pie, pecho, estomago, corazon, pulmon, laringe, garganta, riñon, vejiga, pancreas, vena, lengua, cerebro, diente, utero
+22211 123 02 erizo, hamster, perro, gato, leon, tigre, pez-espada, pez-payaso, cerdo, araña, hormiga, serpiente, mosca, lagarto, cocodrilo, leopardo, oso-polar, oso-pardo, raton, ballena, tiburon, conejo
+22211 123 03 carbon, fuego, agua, combustion, hidrogeno, agua, reactivo, bencina, parafina
+22211 123 04 soluto, disolvente, solucion, agua, insaturada, sobresaturada, saturada, homogenea, heterogenea, formula, litro, mililitro
+22211 123 05 nitrogeno, hidrogeno, algo-organico, fruta, pasto
+22211 124 01 clavicula, cabeza, cerebro, medula-espinal, encefalo, traquea, garganta, mandibula, bronquio, corazon, vena, muñeca, rodilla, rotula, dedo, tobillo, oreja, nariz, pupila, retina, ojo, tronco-encefalico, cerebelo, estomago, glandula-salival
+22211 124 02 suricata, cerdo, elefante, buitre, pollo, chinchilla, coipo, raton, cienpies, marmota, erizo, gaviota, paloma, perro, gato, huron, ardilla, tortuga, pinguino, pulpo, camaleon, cocodrilo, medusa, estrella-de-mar, caballo-de-mar, ballena
+22211 124 03 combustion, fotosintesis, dioxido-de-carbono, descomposicion
+22211 124 04 agua-mineral, alcohol, bebida, agua-potable, agua-con-azucar, jugo-preparado, sal, vino, agua-con-sal, vaselina-liquida, anestesia
+22211 124 05 oxigeno, sal-mineral, tierra
+22211 125 01 cabeza, cuello, columna, clavicula, brazo, muñeca, mano, dedo, uña, pestaña, ojo, ceja, craneo, cerebro, nariz, boca, diente, lengua, corazon, pulmon, higado, riñon, intestino, diafragma, muslo, rodilla, estomago, vesicula
+22211 125 02 perro, gato, vaca, cebra, caballo, aguila, paloma, gallina, pavo-real, cerdo, jabali, caballo-de-mar, estrella-de-mar, tigre, leon, delfin, koala, perezoso, huemul, condor, conejo, chinchilla, canguro, huron, camello
+22211 125 03 ebullicion, fusion, materia, masa, evaporacion, peso, temperatura, elemento, compuesto
+22211 125 04 disolvente, soluto, disolucion-quimica, glucosa
+22211 125 05 abono, hoja, planta, tierra, reciclaje
+22211 126 01 cabeza, perone, cerebro, dedo, mano, brazo, ojo, retina, pie, uña, rodilla, gemelo, tobillo, corazon, pulmon, hueso, higado, caja-toraxica, ombligo, cabello, utero
+22211 126 02 perro, gato, vaca, delfin, leon, hiena, buey, toro, pez-espada, cerdo, gallina, puma, jaguar, pavo, dinosaurio, pollo, paloma, hamster, gallo, raton, araña, grillo, ornitorrinco
+22211 126 03 molaridad, glucosa, reactante, disolucion, liquido, solido, gaseoso, volatil, no-volatil, producto, masa, porcentaje, tabla-periodica, ecuacion, molecula, atomo, acuoso, mol, presion
+22211 126 04 soluto, disolvente, mol, masa, litro, masa-masa, homogenea, heterogenea, liquido, solido, gaseoso, disolucion
+22211 126 05 lipido, hidrato-de-carbono, oxigeno, plancton
+22211 127 01 ojo, femur, cabeza, nariz, boca, dedo, pie, pierna, codo, rodilla, biceps, oreja, muñeca, abdomen, espalda, columna-vertebral, higado, estomago, traquea, pene
+22211 127 02 oso, buho, perro, gato, pato, ganso, pollo, gallina, ballena-azul, ballena-blanca, orca, foca, cerdo, caballo, vaca, tiburon-blanco, tiburon-martillo, dinosaurio, caracol, ornitorrinco, pez-payaso, pez-espada, jirafa, leon, cebra, mamut, nutria, rinoceronte, oso-polar, tigre-blanco, tigre, hiena
+22211 127 03 masa, volumen, kilogramo, atmosfera, porcentaje, reaccion-fisica, gramo, miligramo, soluto, disolvente, disolucion, reaccion-quimica
+22211 127 04 soluto, disolvente, disolucion, gramo, kilogramo, litro, masa-molar, fraccion-molar, homogenea, heterogenea, porcentaje-masa-masa, porcentaje-masa-volumen
+22211 127 05 tierra, excremento
